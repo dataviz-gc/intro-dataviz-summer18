@@ -72,7 +72,7 @@ Because this is a Summer Session course, we will cover a lot of ground in just f
 
 | Date              | Seminar             | Reading              | Tableau Tutorial            |
 | -------------     | :-------------:     | :-------------:      | :-------------:             |         
-| Monday, June 4    | Blog Post 1 Pin Up   | READING ABOUT CRITIQUES - Tufte again?  | Common Data Structure Problems |
+| Monday, June 4    | Project 1 Pin Up   | READING ABOUT CRITIQUES - Tufte again?  | Common Data Structure Problems |
 | Tuesday, June 5   | *Explore Projects for Class:*  [Dear Data 1](http://www.dear-data.com/theproject) & [Dear Data 2](http://www.dear-data-two.com/)| Gitelman, 2013 ["Raw Data" Is An Oxymoron LINK BROKEN]()  | Data Joins |
 | Wednesday, June 6 | Personal Data | Posner, 2016 [What’s Next: The Radical, Unrealized Potential of Digital Humanities](http://dhdebates.gc.cuny.edu/debates/text/54)  |Creating New Variables | 
 | Thursday, June 7 | *Bring 3 Examples to Class:* Data Visualizations in the Media | Drucker 2015 [Humanities Approach to Graphical Design](https://onlinelibrary.wiley.com/doi/10.1002/9781118680605.ch17) | Parameters, Sets, and Hierarchies|
@@ -90,9 +90,9 @@ Because this is a Summer Session course, we will cover a lot of ground in just f
 
 #### Class Time
 
-| Date              | Seminar             | Reading              | Tableau Tutorial            |
-| -------------     | :-------------:     | :-------------:      | :-------------:             |
-| Monday, June 11   | Blog Post 2 Pin Up   |  Viegas & Wattenberg 2015 [Design and Redesign in Data Visualization](https://medium.com/@hint_fm/design-and-redesign-4ab77206cf9) | Treemaps  |
+| Date         | Seminar             | Reading              | Tableau Tutorial            |
+| --------     | :-------------:     | :-------------:      | :-------------:             |
+| Monday, June 11   | Project 2 Pin Up   |  Viegas & Wattenberg 2015 [Design and Redesign in Data Visualization](https://medium.com/@hint_fm/design-and-redesign-4ab77206cf9) | Treemaps  |
 | Tuesday, June 12  | Distant Reading | Schulz 2011 [NYTimes Book Review](http://www.nytimes.com/2011/06/26/books/review/the-mechanic-muse-what-is-distant-reading.html) of Graphs, Maps, and Trees & Moretti 2007 [Graphs, Maps, and Trees LINK BROKEN]()  | Dispersion Plots |
 | Wednesday, June 13| Maps as Visualizations | Solnit, 2016 [Nonstop Metropolis](http://www.ucpress.edu/book.php?isbn=9780520285958) | Bump Chart, Donut Chart     |
 | Thursday, June 14 | Grounded Theory and Visualization | Knigge & Cope 2006 [Grounded visualization: integrating the analysis of qualitative
