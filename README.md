@@ -91,7 +91,7 @@ Because this is a Summer Session course, we will cover a lot of ground in just f
 #### Class Time
 
 | Date         | Seminar             | Reading              | Tableau Tutorial            |
-| --------     | :-------------:     | :-------------:      | :-------------:             |
+| -------------     | :-------------:     | :-------------:      | :-------------:             | 
 | Monday, June 11   | Project 2 Pin Up   |  Viegas & Wattenberg 2015 [Design and Redesign in Data Visualization](https://medium.com/@hint_fm/design-and-redesign-4ab77206cf9) | Treemaps  |
 | Tuesday, June 12  | Distant Reading | Schulz 2011 [NYTimes Book Review](http://www.nytimes.com/2011/06/26/books/review/the-mechanic-muse-what-is-distant-reading.html) of Graphs, Maps, and Trees & Moretti 2007 [Graphs, Maps, and Trees LINK BROKEN]()  | Dispersion Plots |
 | Wednesday, June 13| Maps as Visualizations | Solnit, 2016 [Nonstop Metropolis](http://www.ucpress.edu/book.php?isbn=9780520285958) | Bump Chart, Donut Chart     |
