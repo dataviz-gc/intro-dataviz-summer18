@@ -6,29 +6,26 @@
 - Taught by: Erin Daugherty and Michelle McSweeney
 
 ## Description
-As employers in every sector continue to search for candidates that can turn their data into actionable information, this course is designed to demystify data analysis by approaching it visually. Using Tableau Software, we will build a series of interactive visualizations that combine data and logic with storytelling and design. Over the course of four weeks, we will dive into cleaning and structuring unruly data sets, identifying which chart types work best for different types of data, and unpacking the tactics behind effective visual communication. Our data sets will be geared towards humanities and social science research, and Tableau’s drag-and-drop interface will not require coding. Regardless of your academic concentration, you will walk away from this class with a portfolio of dynamic dashboards and a new interdisciplinary skill set ready to leverage in your academic and professional work.
+As employers in every sector continue to search for candidates that can turn their data into actionable information, this course is designed to demystify data analysis by approaching it visually. Using Tableau Software, we will build a series of interactive visualizations that combine data and logic with storytelling and design. We will dive into cleaning and structuring unruly data sets, identifying which chart types work best for different types of data, and unpacking the tactics behind effective visual communication. With an eye towards critical evaluation of both data and method, projects and discussion will be geared towards humanities and social science research. Regardless of your academic concentration, you will walk away from this class with a portfolio of dynamic dashboards and a new interdisciplinary skill set ready to leverage in your academic and professional work.
 
 ## Our Objectives
 By the end of this class, you will be able to:
 
-1. Generous Community Member
-- Structure thoughtful critiques and offer technical solutions to enhance the work of your classmates
+- Build interactive data visualization dashboards that answer a clear and purposeful research question
+- Choose which chart type works best for different types of data
+- Iterate with fluidity in Tableau Software leveraging visualization, aesthetic, and user interface best practices
+- Structure thoughtful critiques and communicate technical questions and solutions 
 - Leverage collaborative tools, including Tableau Public, Github, and repositories of public data sets
 - Contribute to the broader conversation about digital practices in academic research
-
-2. Conscientious Consumer
 - Critically read a wide range of chart types with an eye for accuracy, audience, and effectiveness
 - Identify potential weaknesses in the collection methods and structure of underlying data sets 
 - Locate the original source of a visualization and its data
 
-3. Iterative Builder
-- Build interactive data visualization dashboards that answer a clear and purposeful research question
-- Choose which chart type works best for different types of data
-- Iterate with fluidity in Tableau Software leveraging visualization, aesthetic, and user interface best practices
+
 
 
 ## Assignments
-During this course, you will complete four assignments: 2 blog posts and a final portfolio accompanied by a white paper. We expect that you will turn in each project before you feel fully ready to do so. You are more than welcome to submit significant revisions of the first two blog posts until you're satisfied with the project. Just note that we will not re-grade projects that have already received an A. 
+During this course, you will complete four assignments: 2 guided projects and a final portfolio accompanied by a white paper. We expect that you will turn in each project before you feel fully ready to do so. You will have the opportunity to submit revisions of the first two blog projects until you're satisfied with the outcome. 
 
 ### Blog Post 1
 ##### 25% Final Grade | TODO Link to Assignment Rubric
@@ -47,15 +44,15 @@ TODO Assignment Description Here - with a data set relevant to their field
 TODO Assignment Description Here
 
 ## Our Schedule
-We will cover a lot of ground in just four weeks. Strong attendance will be essential for doing well in this course. Each class period will be divided into two parts. First, we'll use our seminar time to dive into a theoretical component underpinning data visualization. You'll find the readings you should prepare for each class period listed below. Then, we'll use the second half of the class for a hands-on tutorial in Tableau. You do not need to prepare anything ahead of time for this section of class.
+Because this is a Summer Session course, we will cover a lot of ground in just four weeks. Attendance is essential for understanding the material and doing well in the course. Each class period will be divided into two parts: a seminar and a hands-on practicum. The seminar will focus on a theoretical component underpinning data visualization, and the second half will be a hands-on tutorial in Tableau. By the end of this course, you will have both a deep understanding of why we do things and how to ethically engage in visual communication.
 
 ***
 
 ### Week 1 | Introduction to Tableau and Github
 #### Class Time
 
-| Date              | Seminar                                   | Tableau Tutorial            |
-| -------------     | :-------------:                           | :-------------:             |        
+| Date              | Seminar             | Reading              | Tableau Tutorial            |
+| -------------     | :-------------:     | :-------------:      | :-------------:             |        
 | Tuesday, May 29   | Introductions, Our Goals, and Tech Set Up | Text Table, Bar Chart, Line Chart, Heat Map |
 | Wednesday, May 30 | Structuring Your Research Questions | Area Chart, Scatter Plot, Histogram, Box and Whisker Plot |
 | Thursday, May 31  | *Read for Class:* Humanities Approach to Graphical Design by Johanna Drucker | Maps, Dashboard Design |
