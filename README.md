@@ -53,9 +53,9 @@ Because this is a Summer Session course, we will cover a lot of ground in just f
 
 | Date              | Seminar             | Reading              | Tableau Tutorial            |
 | -------------     | :-------------:     | :-------------:      | :-------------:             |        
-| Tuesday, May 29   | Introductions, Our Goals, and Tech Set Up | Text Table, Bar Chart, Line Chart, Heat Map |
-| Wednesday, May 30 | Structuring Your Research Questions | Area Chart, Scatter Plot, Histogram, Box and Whisker Plot |
-| Thursday, May 31  | *Read for Class:* Humanities Approach to Graphical Design by Johanna Drucker | Maps, Dashboard Design |
+| Tuesday, May 29   | Introductions, Goals, and Tech Set Up | NONE | Text Table, Bar Chart, Line Chart, Heat Map |
+| Wednesday, May 30 | Structuring Your Research Questions | [What’s Next: The Radical, Unrealized Potential of Digital Humanities](http://dhdebates.gc.cuny.edu/debates/text/54) Miriam Posner, 2016 |Area Chart, Scatter Plot, Histogram, Box and Whisker Plot |
+| Thursday, May 31  | TBD | [Humanities Approach to Graphical Design by Johanna Drucker](https://onlinelibrary.wiley.com/doi/10.1002/9781118680605.ch17) |Maps, Dashboard Design |
 
 #### Assignment Deadlines
 
