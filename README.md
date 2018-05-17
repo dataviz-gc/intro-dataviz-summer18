@@ -95,8 +95,7 @@ Because this is a Summer Session course, we will cover a lot of ground in just f
 | Monday, June 11   | Project 2 Pin Up   |  Viegas & Wattenberg 2015 [Design and Redesign in Data Visualization](https://medium.com/@hint_fm/design-and-redesign-4ab77206cf9) | Treemaps  |
 | Tuesday, June 12  | Distant Reading | Schulz 2011 [NYTimes Book Review](http://www.nytimes.com/2011/06/26/books/review/the-mechanic-muse-what-is-distant-reading.html) of Graphs, Maps, and Trees & Moretti 2007 [Graphs, Maps, and Trees LINK BROKEN]()  | Dispersion Plots |
 | Wednesday, June 13| Maps as Visualizations | Solnit, 2016 [Nonstop Metropolis](http://www.ucpress.edu/book.php?isbn=9780520285958) | Bump Chart, Donut Chart     |
-| Thursday, June 14 | Grounded Theory and Visualization | Knigge & Cope 2006 [Grounded visualization: integrating the analysis of qualitative
-and quantitative data through grounded theory and visualization](http://journals.sagepub.com/doi/pdf/10.1068/a37327) | Bullet Graphs, Gantt Chart  |
+| Thursday, June 14 | Grounded Theory and Visualization | Knigge & Cope 2006 [Grounded visualization: integrating the analysis of qualitative and quantitative data through grounded theory and visualization](http://journals.sagepub.com/doi/pdf/10.1068/a37327) | Bullet Graphs, Gantt Chart  |
 
 #### Assignment Deadlines
 
