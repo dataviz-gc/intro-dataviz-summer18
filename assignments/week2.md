@@ -2,9 +2,8 @@
 
 ### Premise
 
-For this project, you will collect data about yourself.  
+For this project, you will collect data about yourself and then create a visualization from that data. You will select one component of your life (digital, analogue, etc.) to quantify. You could make a completely new dataset over the course of a day or curate a new one from your digital (or analogue) footprint. Since this project is heavier on the data side, and you will be engaging in data creation, it will force you to grapple with messy or incomplete datasets. On the other hand, your dataset is poised to have significant personal context and qualitative value. In the past 10 years (basically since the advent of "wearables"), this type of quantified self has gained prominence. This project is designed to speak to that movement while giving you the opportunity to get creative with what aspect of your "self" to quantify, and how to visualize it.
 
-While the aim of this first project is to get you comfortable using data to address a research question, we encourage you to be creative and exploratory.  
 
 ### Part I: Project Proposal 
 (15%)
