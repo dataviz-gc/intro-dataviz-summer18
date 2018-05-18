@@ -3,12 +3,12 @@
 - TODO Course Number
 - Monday - Thursday 6:00 to 8:00 | 5/29 - 6/21 | TODO Location
 - Office Hours: By Appointment
-- Taught by: Erin Daugherty and Michelle McSweeney
+- Taught by: Erin Daugherty and Michelle McSweeney (mam2518@columbia.edu)
 
 ## Description
 As employers in every sector continue to search for candidates that can turn their data into actionable information, this course is designed to demystify data analysis by approaching it visually. Using Tableau Software, we will build a series of interactive visualizations that combine data and logic with storytelling and design. We will dive into cleaning and structuring unruly data sets, identifying which chart types work best for different types of data, and unpacking the tactics behind effective visual communication. With an eye towards critical evaluation of both data and method, projects and discussion will be geared towards humanities and social science research. Regardless of your academic concentration, you will walk away from this class with a portfolio of dynamic dashboards and a new interdisciplinary skill set ready to leverage in your academic and professional work.
 
-## Our Objectives
+## Objectives
 By the end of this class, you will be able to:
 
 - Build interactive data visualization dashboards that answer a clear and purposeful research question
@@ -22,13 +22,11 @@ By the end of this class, you will be able to:
 - Locate the original source of a visualization and its data
 
 
-
-
 ## Assignments
 During this course, you will complete four assignments: 2 guided projects and a final portfolio accompanied by a white paper. We expect that you will turn in each project before you feel fully ready to do so. You will have the opportunity to submit revisions of the first two blog projects until you're satisfied with the outcome. 
 
 ### Blog Post 1
-##### 25% Final Grade | TODO Link to Assignment Rubric
+##### 25% Final Grade | [Guidelines](https://github.com/dataviz-gc/intro-dataviz-summer18/blob/master/assignments/week1.md)
 TODO Assignment Description Here - with 3:1:1 data
 
 ### Blog Post 2
@@ -43,7 +41,7 @@ TODO Assignment Description Here - with a data set relevant to their field
 ##### 10% Final Grade | TODO Link to Assignment Rubric
 TODO Assignment Description Here
 
-## Our Schedule
+## Schedule
 Because this is a Summer Session course, we will cover a lot of ground in just four weeks. Attendance is essential for understanding the material and doing well in the course. Each class period will be divided into two parts: a seminar and a hands-on practicum. The seminar will focus on a theoretical component underpinning data visualization, and the second half will be a hands-on tutorial in Tableau. By the end of this course, you will have both a deep understanding of why we do things and how to ethically engage in visual communication.
 
 ***

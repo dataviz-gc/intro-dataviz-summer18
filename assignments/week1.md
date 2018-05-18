@@ -7,9 +7,9 @@ For this project, you will visualize 311 Data from the New York City Open Data P
 While the aim of this first project is to get you comfortable using data to address a research question, we encourage you to be creative and exploratory.  
 
 ### Part I: Project Proposal 
-(15%)
 
-**DUE 6pm Friday, June 1**
+**DUE 6pm Friday, June 1** (15%)
+
 
 You will submit, via email, an approximately 1 page project proposal that addresses:
 1. **A research question.** Your question can take the shape of a question, topic, or title, but it must be coherent and the type of question that can be addressed in a data visualization. For example, your project may start with "What month has the most heating complaints?" and then expand into "What year(s) had the most heating complaints, and were those years colder than other years?" 
@@ -20,9 +20,8 @@ You will submit, via email, an approximately 1 page project proposal that addres
 We will provide you with feedback by **Friday night at midnight**. We cannot take late submissions, but can take early ones. This timeframe is to ensure that what you have planned is reasonable and realistic. If we have revisions, you will not need to submit a revised proposal. However, if there are major changes that need to be made, we may ask to schedule a video chat over the weekend to help reframe your project. 
 
 ### Part II: Visualization and Blog Post 
-(70%)
 
-**DUE 12midnight Sunday, June 3**
+**DUE 12midnight Sunday, June 3** (70%)
 
 You will post a blog post on your Github page that includes:
 1. **Your research question** It is ok if this has changed since submitting the proposal, but must reflect the question or topic you have addressed in *this* version of your visualization.
@@ -34,9 +33,8 @@ You will post a blog post on your Github page that includes:
 The written component should be approximately 500-1,500 words
 
 ### Part III: Pin Up 
-(15%)
 
-**DUE in class June 4**
+**DUE in class June 4** (15%)
 
 The final component is a pin up and critique. You must be present in class for the critique. Since critique is essential but ephemeral, if you have extenuating circumstances that prohibit you from attending a Monday session, contact Michelle and Erin in advance to make arrangements. 
 
