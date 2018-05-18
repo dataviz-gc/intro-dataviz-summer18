@@ -1,4 +1,4 @@
-# Portfolio: Blog Post 1
+## Portfolio: Blog Post 1
 
 ### Premise
 
@@ -6,7 +6,8 @@ For this project, you will visualize 311 Data from the New York City Open Data P
 
 While the aim of this first project is to get you comfortable using data to address a research question, we encourage you to be creative and exploratory.  
 
-### Part I: Project Proposal (15%)
+### Part I: Project Proposal 
+(15%)
 
 **DUE 6pm Friday, June 1**
 
@@ -18,7 +19,8 @@ You will submit, via email, an approximately 1 page project proposal that addres
 
 We will provide you with feedback by **Friday night at midnight**. We cannot take late submissions, but can take early ones. This timeframe is to ensure that what you have planned is reasonable and realistic. If we have revisions, you will not need to submit a revised proposal. However, if there are major changes that need to be made, we may ask to schedule a video chat over the weekend to help reframe your project. 
 
-### Part II: Visualization and Blog Post (70%)
+### Part II: Visualization and Blog Post 
+(70%)
 
 **DUE 12midnight Sunday, June 3**
 
@@ -30,7 +32,8 @@ You will post a blog post on your Github page that includes:
 5. **Next Steps**. What are the next steps you would take given the opportunity - how would you iterate on it to either make it better, constrain it, or develop it. Where does this project go from here?
 
 
-### Part III: Pin Up (15%)
+### Part III: Pin Up 
+(15%)
 
 **DUE in class June 4**
 
