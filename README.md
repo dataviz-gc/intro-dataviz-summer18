@@ -30,7 +30,7 @@ During this course, you will complete four assignments: 2 guided projects and a 
 TODO Assignment Description Here - with 3:1:1 data
 
 ### Blog Post 2
-##### 25% Final Grade | TODO Link to Assignment Rubric
+##### 25% Final Grade | [Guidelines](https://github.com/dataviz-gc/intro-dataviz-summer18/blob/master/assignments/week2.md)
 TODO Assignment Description Here - with quantitative self data
 
 ### Final Portfolio 
