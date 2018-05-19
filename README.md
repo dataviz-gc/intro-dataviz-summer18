@@ -27,19 +27,19 @@ During this course, you will complete four assignments: 2 guided projects and a 
 
 ### Blog Post 1
 ##### 25% Final Grade | [Guidelines](https://github.com/dataviz-gc/intro-dataviz-summer18/blob/master/assignments/week1.md)
-TODO Assignment Description Here - with 3:1:1 data
+A visualization of 311 data
 
 ### Blog Post 2
 ##### 25% Final Grade | [Guidelines](https://github.com/dataviz-gc/intro-dataviz-summer18/blob/master/assignments/week2.md)
-TODO Assignment Description Here - with quantitative self data
+Quantified self-style data creation and visualization
 
 ### Final Portfolio 
-##### 40% Final Grade | TODO Link to Assignment Rubric
-TODO Assignment Description Here - with a data set relevant to their field
+##### 40% Final Grade | [Guidelines](https://github.com/dataviz-gc/intro-dataviz-summer18/blob/master/assignments/finalproject.md)
+Independent Research Question, Data Set, and Visualization 
 
 ### White Paper 
-##### 10% Final Grade | TODO Link to Assignment Rubric
-TODO Assignment Description Here
+##### 10% Final Grade | [Guidelines](https://github.com/dataviz-gc/intro-dataviz-summer18/blob/master/assignments/whitepaper.md)
+Final Reflection on Data, Visualization, and Iteration
 
 ## Schedule
 Because this is a Summer Session course, we will cover a lot of ground in just four weeks. Attendance is essential for understanding the material and doing well in the course. Each class period will be divided into two parts: a seminar and a hands-on practicum. The seminar will focus on a theoretical component underpinning data visualization, and the second half will be a hands-on tutorial in Tableau. By the end of this course, you will have both a deep understanding of why we do things and how to ethically engage in visual communication.

@@ -15,3 +15,5 @@ The white paper is also a chance to reflect on the iteration process, and how th
 Finally, this is an opportunity to educate your audience. Assume your reader is an educated novice. They probably know what a scatter plot or a bar chart is, but may not know what a tree plot is, or why you would use one. Explain any terms that could be unfamiliar. 
 
 Ultimately, the white paper serves as a reflection on the visualization, the data, and the process of creating. These three pillars come together in almost every project, but are readily apparent in data visualization, where design and iteration are essential components of the work.
+
+The final paper should be 1,500 to 4,000 words (more than 4,000 is too long)
