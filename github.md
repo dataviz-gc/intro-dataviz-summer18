@@ -7,6 +7,8 @@ GitHub is an invaluable tool for version control, collaboration, and distributio
 * Be able to utilize GitHub for storing projects
 * Have a "Hello World" GitHub page with a blog post structure in place
 
+The example site is here: []
+
 #### Set Up
 
 First, you will set up a GitHub account through the browser. Navigate to [github.com](https://github.com/) and Sign Up for a new account. Log in with your new account.
@@ -61,7 +63,7 @@ Select 'Master branch' and then 'Save' and then 'Themes'
 
 ![git](https://github.com/dataviz-gc/intro-dataviz-summer18/blob/master/img/git7.png)
 
-Pick your theme (you can change this later). You will be taken back to the repository where you will see a `_yaml` file. This file controls the styling of your site and tells the browser how to render it.
+Pick your theme (you can change this later). You will be taken back to the repository where you will see a `_config.yml` file. This file controls the styling of your site and tells the browser how to render it.
 
 Now go back to the **Settings** tab and scroll down to the Pages options, and you will see a link to your new website. Congratulations! Your site is live!
 
@@ -75,7 +77,7 @@ Scroll to the bottom and Commit your changes.
 
 ![git](https://github.com/dataviz-gc/intro-dataviz-summer18/blob/master/img/git10.png)
 
-You will be redirected to the list of files. Click on `Create New File`. Name this file blogpost1.md, and enter some content. You can preview what it looks like on the `Preview` Tab under the file name. 
+You will be redirected to the list of files. Click on `Create New File`. Name this file **blogpost1.md**, and enter some dummy text such as "Hello World". You can preview what it looks like on the `Preview` Tab under the file name. 
 
 ![git](https://github.com/dataviz-gc/intro-dataviz-summer18/blob/master/img/git11.png)
 
@@ -83,15 +85,15 @@ When you are satisfied, scroll to the bottom of the page, and `Commit` your chan
 
 Now, we want to link this page from our landing page. 
 
-Return to our root directory by clicking on the name of the repository at the top of the page. Open your index.md file, and select the `Edit` button
+Return to our root directory by clicking on the name of the repository at the top of the page. Open your `index.md file``, and select the `Edit` button
 
 ![git](https://github.com/dataviz-gc/intro-dataviz-summer18/blob/master/img/git8.png)
 
-Add to your file a header using:
+Add a title to your file using one hash tag (this makes Header size 1-the biggest):
 
-`# Header`
+`# My first blog post`
 
-Add a subheader with either 2, 3, or 4 hashtags (depending on what size you want it). And add a link to blogpost1.md by enclosing the linked words in square brackets, and the location of the file in parentheses after it (./ tells this file to look for a file in the same level of the document tree). 
+Add a subheader with either 2, 3, or 4 hashtags (depending on what size you want it). And add a link to blogpost1.md by enclosing the linked words in square brackets, and the location of the file in parentheses after it (./ tells this file to look for a file in the same level of the document tree - NOTE the forward slash! A backslash will find the *file* - not the page). 
 
 `### [311 Visualization](./blogpost1.md)` 
 
@@ -111,9 +113,36 @@ Be sure to do this periodically to keep everything synced.
 
 #### Embedding Tableau Public
 
-Once you have posted your visualization to Tableau Public, you can embed it into your pages. Here, I am going to embed a visualization from my Tableau Public account into my Blog Post 1 page. 
+Once you have posted your visualization to Tableau Public, you can embed it into your pages. Here, I am going to embed a visualization from my Tableau Public account into my Blog Post 1 page. We will need to make an `_includes` folder in the root of our GitHub Repository. 
 
-Go back to Github in the browser. Navigate to your Tableau Public repository [or mine for now](https://public.tableau.com/views/shootings_1/Sheet1?:embed=y&:display_count=yes&publish=yes)). Make any last edits to the visualization with `Edit Details` at the top. Then click on the `Share` icon at the bottom of the page (it's within the visualization frame)
+Select `Create New File`
+
+Type: `_includes/plot1.html`  (you must type `_includes` exactly, the name of the plot is irrelevant, and you will make many more).
+
+![git](https://github.com/dataviz-gc/intro-dataviz-summer18/blob/master/img/git15.png)
+
+This will make a new Folder **and** a new file at the same time. You might have noticed that the ending of this file is `.html` rather than `.md`. 
+
+The interactive features of your chart will only work in an html file because they are calling on *another* programming language: Javascript. Since our focus here is data visualization (not web development - though there is a large space where those overlap), we aren't going to get into the details of this too much. Suffice it to say that GitHub pages allows a low barrier way to create a website by transforming Markdown (which looks a lot like plain language) into HTML and CSS, but Tableau uses Javascript. Those three languages together provide the structure, styling, and interaction (respectively) that you see on the web. To get around this constraint, we are going to embed our Tableau Public chart as a function within our markdown file. 
+
+Now open the `plot1.html` file for editing. 
+
+Type the following code (not the CODE HERE part)
+
+```
+<html>
+	<body>
+
+	[CODE HERE]
+
+	</body>
+</html>```
+
+
+![git](https://github.com/dataviz-gc/intro-dataviz-summer18/blob/master/img/git17.png)
+
+
+Now, navigate to your Tableau Public repository [or mine for now](https://public.tableau.com/views/shootings_1/Sheet1?:embed=y&:display_count=yes&publish=yes)). Make any last edits to the visualization with `Edit Details` at the top. Then click on the `Share` icon at the bottom of the page (it's within the visualization frame)
 
 ![tableau](https://github.com/dataviz-gc/intro-dataviz-summer18/blob/master/img/tableau1.png)
 
@@ -121,6 +150,59 @@ Copy the `Embed` code (on the top).
 
 ![tableau](https://github.com/dataviz-gc/intro-dataviz-summer18/blob/master/img/tableau2.png)
 
-Return to the GitHub **Website** and your blogpost1.md file. Paste this link where you want the visualization to appear. Select Preview to be sure it looks the way you expect and then commit your changes.  
+Return to the `plot1.html` file you were just editing and paste this link between the `<body>` tags. 
 
 ![git](https://github.com/dataviz-gc/intro-dataviz-summer18/blob/master/img/git14.png)
+
+Commit your changes. Now we are going to go back to our blogpost1.md file and make a link to this html file. Open the `blogpost1.md` file for editing.
+
+Type `{% include plot1.html %}` where you would like your plot to appear. This tells our page that it should go and look for the *function* plot1.html in the `_includes` folder. The curly braces, percentage signs, and spaces are all essential. NOTE! Preview will not work for this because you are referencing another file.
+
+![git](https://github.com/dataviz-gc/intro-dataviz-summer18/blob/master/img/git16.png)
+
+
+Commit your changes and reload the page. The visualization should appear NOTE! This may take some time - sometimes the rendering goes slowly. If there is a problem, you will get a build error in your email almost immediately. 
+
+We have now built the structure for your site. You will make more blog posts, more plots, and more links. In general, the structure looks like this:
+
+![git](https://github.com/dataviz-gc/intro-dataviz-summer18/blob/master/img/structure.png)
+
+
+Now go back to the GitHub Desktop and sync your folders. Click the Sync button, wait for the changes to appear, write a commit message, and commit your changes (there may be no changes to commit. If so, just click the `Sync` button). 
+
+#### Change headers and other meta data
+
+You can change the headers, logos, etc. in the `yaml` file. Go back to your gitHub repository and open the `_config.yml` file for editing. 
+
+Right now, it just has the default settings (depending on your Theme, there may be more or less information here)
+
+Don't change the name of your theme. You can add (or change) the following attributes:
+
+```
+title:
+description: 
+layout: (usually this will be `post`)
+logo: (must be located in an `img` folder!)
+```
+[and more](https://jekyllrb.com/docs/frontmatter/)
+
+![git](https://github.com/dataviz-gc/intro-dataviz-summer18/blob/master/img/git19.png)
+
+Congratulations!! You have set up a github account, created a page using Markdown, and embedded an interactive graphic into a webpage. You will use this structure to submit all of your projects. 
+
+You will need to write your posts in Markdown. Here's a [complete guide](https://guides.github.com/features/mastering-markdown/) and a [cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
+
+On your own, **put a link back to the HomePage (index.md)** at the top of your blog posts.
+
+As it stands, our site obviously needs a lot of work since just have dummy content, and we haven't done much in the way of formatting, but the basic structure is there. You can change your site as you go along. 
+
+
+If you are comfortable with this workflow, you can customize your site as much as you would like using [Jekyll](https://jekyllrb.com/docs/github-pages/). If you are already (even a little bit) familiar with web development, feel free to use bootstrap or any other tool to build [your site](https://pages.github.com/).
+
+______________________________________________________________________________________________________________
+
+Tutorial written by [Michelle McSweeney](www.michelleamcsweeney.com), for *Introduction to Data Visualization*, a course in the M.A. in Digital Humanities at the Graduate Center at CUNY. More information about the program is available [here](https://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Masters-Programs/Digital-Humanities).
+
+
+
+ 
