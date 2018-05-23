@@ -136,7 +136,8 @@ Type the following code (not the CODE HERE part)
 	[CODE HERE]
 
 	</body>
-</html>```
+</html>
+```
 
 
 ![git](https://github.com/dataviz-gc/intro-dataviz-summer18/blob/master/img/git17.png)
@@ -178,8 +179,7 @@ Right now, it just has the default settings (depending on your Theme, there may 
 
 Don't change the name of your theme. You can add (or change) the following attributes:
 
-```
-title:
+```title:
 description: 
 layout: (usually this will be `post`)
 logo: (must be located in an `img` folder!)
