@@ -2,7 +2,8 @@
 
 Throughout this course we will build data visualizations using Tableau and share what we've built using GitHub. This tutorial will walk you through setting up each piece of our technology pipeline. 
 
-*TODO Insert Pipeline Graphic Here*
+![git](https://github.com/dataviz-gc/intro-dataviz-summer18/blob/master/img/TESTtechpipeline.jpg)
+
 
 ## STEP 1: Download Tableau Software
 
