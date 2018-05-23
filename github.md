@@ -22,6 +22,7 @@ To start building out our technical pipeline, download Tableau:
 - Launch Tableau
 
 ![git](https://github.com/dataviz-gc/intro-dataviz-summer18/blob/master/img/downloadTableau1.jpg)
+
 ![git](https://github.com/dataviz-gc/intro-dataviz-summer18/blob/master/img/downloadTableau2.jpg)
 
 ### Build Your First Visualization
@@ -36,6 +37,7 @@ Now you're ready to build your very first visualization! Let's start with someth
 - Click *Sheet 1* in the orange box in the bottom left corner
 
 ![git](https://github.com/dataviz-gc/intro-dataviz-summer18/blob/master/img/connectData1.jpg)
+
 ![git](https://github.com/dataviz-gc/intro-dataviz-summer18/blob/master/img/connectData2.jpg)
 
 #### How to Build a Line Graph
@@ -50,7 +52,9 @@ On the left side of your screen, the variables in the data set have been split u
 - Double click on *Sheet 1* and title your sheet *Population by Region*
 
 ![git](https://github.com/dataviz-gc/intro-dataviz-summer18/blob/master/img/lineChart1.jpg)
+
 ![git](https://github.com/dataviz-gc/intro-dataviz-summer18/blob/master/img/lineChart2.jpg)
+
 ![git](https://github.com/dataviz-gc/intro-dataviz-summer18/blob/master/img/lineChart3.jpg)
 
 ## STEP 2: Creating a Tableau Public Profile
@@ -70,6 +74,7 @@ Tableau Software hosts the server and each published visualization comes with a 
 - Verify your account through the email Tableau has just sent you
 
 ![git](https://github.com/dataviz-gc/intro-dataviz-summer18/blob/master/img/tableauPublicProfile1.jpg)
+
 ![git](https://github.com/dataviz-gc/intro-dataviz-summer18/blob/master/img/tableauPublicProfile2.jpg)
 
 #### How to Publish Your Visualizations
@@ -82,7 +87,9 @@ Tableau Software hosts the server and each published visualization comes with a 
 - Click *My Profile* to return to your profile. This is where all of your visualizations will be saved during the course.
 
 ![git](https://github.com/dataviz-gc/intro-dataviz-summer18/blob/master/img/savingToPublic1.jpg)
+
 ![git](https://github.com/dataviz-gc/intro-dataviz-summer18/blob/master/img/savingToPublic2.jpg)
+
 ![git](https://github.com/dataviz-gc/intro-dataviz-summer18/blob/master/img/savingToPublic3.jpg)
 
 
