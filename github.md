@@ -4,7 +4,7 @@ Throughout this course we will build data visualizations using Tableau and share
 
 *TODO Insert Pipeline Graphic Here*
 
-## STEP 1: Downloading Tableau Software
+## STEP 1: Download Tableau Software
 
 ### What's Tableau?
 We will build all of our data visualizations using Tableau Software. Tableau is a leading data visualization tool. Its drag-and drop-interface allows users to create interactive and dynamic data dashboards without coding. As visual analytics continues to grow, Tableau has become increasingly popular in corporate, nonprofit, and government sectors. 
@@ -57,7 +57,7 @@ On the left side of your screen, the variables in the data set have been split u
 
 ![git](https://github.com/dataviz-gc/intro-dataviz-summer18/blob/master/img/lineChart3.jpg)
 
-## STEP 2: Creating a Tableau Public Profile
+## STEP 2: Create a Tableau Public Profile
 
 ### What's a Tableau Public Profile?
 Congratulations! You've just created your very first interactive visualization in Tableau. Now you want to be able to share it with the world. A Tableau Public Profile provides a platform to publish and share your visualizations. It retains all of the aspects that make Tableau's output unique, such as the dynamic filters (like the year filter you added to your line chart above) and the interactive tooltips (those little text boxes that pop up when you hover over a given data point). 
@@ -296,7 +296,7 @@ If you are comfortable with this workflow, you can customize your site as much a
 
 ______________________________________________________________________________________________________________
 
-Tutorial written by [Michelle McSweeney](www.michelleamcsweeney.com), for *Introduction to Data Visualization*, a course in the M.A. in Digital Humanities at the Graduate Center at CUNY. More information about the program is available [here](https://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Masters-Programs/Digital-Humanities).
+Tutorial written by [Michelle McSweeney](www.michelleamcsweeney.com) and [Erin Daugherty](https://www.linkedin.com/in/erindaugherty/), for *Introduction to Data Visualization*, a course in the M.A. in Digital Humanities at the Graduate Center at CUNY. More information about the program is available [here](https://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Masters-Programs/Digital-Humanities).
 
 
 
