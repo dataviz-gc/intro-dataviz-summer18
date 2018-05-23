@@ -24,6 +24,7 @@ To start building out our technical pipeline, download Tableau:
 
 *TODO Insert downloading screenshots here*
 
+![git](https://github.com/dataviz-gc/intro-dataviz-summer18/blob/master/img/downloadTableau1.jpg)
 
 ### Build Your First Visualization
 Now you're ready to build your very first visualization! Let's start with something simple. Wel'll look at how populations in different regions around the world have changed over time. First, we'll connect Tableau to a dataset from the United Nations and then we'll build a line graph.
