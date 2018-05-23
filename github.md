@@ -30,7 +30,7 @@ Now you're ready to build your very first visualization! Let's start with someth
 
 #### How to Connect Tableau to a Data Set
 
-- Download this Excel spreadsheet
+- Download the UN Population Estimates data from [this GitHub folder](https://github.com/dataviz-gc/intro-dataviz-summer18/blob/master/data/week3/Population-Estimates-by-Country-1950-2015-United-Nations.xlsx)
 - Go back to Tableau where you should see a blue panel on the left title *Connect*
 - Click on *Microsoft Excel*, select the *U.N. Population Estimates*, and click *Open*
 - Drag the *Population Estimates UN* sheet into the center space titled *Drag Sheets Here*
