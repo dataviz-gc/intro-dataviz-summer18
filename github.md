@@ -21,10 +21,8 @@ To start building out our technical pipeline, download Tableau:
 - Install the app on your computer
 - Launch Tableau
 
-
-*TODO Insert downloading screenshots here*
-
 ![git](https://github.com/dataviz-gc/intro-dataviz-summer18/blob/master/img/downloadTableau1.jpg)
+![git](https://github.com/dataviz-gc/intro-dataviz-summer18/blob/master/img/downloadTableau2.jpg)
 
 ### Build Your First Visualization
 Now you're ready to build your very first visualization! Let's start with something simple. Wel'll look at how populations in different regions around the world have changed over time. First, we'll connect Tableau to a dataset from the United Nations and then we'll build a line graph.
@@ -37,8 +35,8 @@ Now you're ready to build your very first visualization! Let's start with someth
 - Drag the *Population Estimates UN* sheet into the center space titled *Drag Sheets Here*
 - Click *Sheet 1* in the orange box in the bottom left corner
 
-
-*TODO Insert connecting data screenshots here*
+![git](https://github.com/dataviz-gc/intro-dataviz-summer18/blob/master/img/connectData1.jpg)
+![git](https://github.com/dataviz-gc/intro-dataviz-summer18/blob/master/img/connectData2.jpg)
 
 #### How to Build a Line Graph
 On the left side of your screen, the variables in the data set have been split up into dimensions (descriptive pieces of data, like the name of a country or the region where it's located) and measures (pieces of data you'd do math on, like the population). Let's build a line graph that breaks down the world's population by region for the second half of the 20th century. 
@@ -51,8 +49,9 @@ On the left side of your screen, the variables in the data set have been split u
 - Adjust the Year Filter from 2015 to 2000
 - Double click on *Sheet 1* and title your sheet *Population by Region*
 
-*TODO Insert line graph screenshots here*
-
+![git](https://github.com/dataviz-gc/intro-dataviz-summer18/blob/master/img/lineChart1.jpg)
+![git](https://github.com/dataviz-gc/intro-dataviz-summer18/blob/master/img/lineChart2.jpg)
+![git](https://github.com/dataviz-gc/intro-dataviz-summer18/blob/master/img/lineChart3.jpg)
 
 ## STEP 2: Creating a Tableau Public Profile
 
@@ -70,7 +69,8 @@ Tableau Software hosts the server and each published visualization comes with a 
 - Fill in your name, email, and password for your profile
 - Verify your account through the email Tableau has just sent you
 
-*TODO Insert profile screenshots here*
+![git](https://github.com/dataviz-gc/intro-dataviz-summer18/blob/master/img/tableauPublicProfile1.jpg)
+![git](https://github.com/dataviz-gc/intro-dataviz-summer18/blob/master/img/tableauPublicProfile2.jpg)
 
 #### How to Publish Your Visualizations
 - Now that you have an account, go back to your Tableau visualization
@@ -81,7 +81,9 @@ Tableau Software hosts the server and each published visualization comes with a 
 - There's your visualization! Test it out. Try adjusting the year filter or hovering over each region's line.
 - Click *My Profile* to return to your profile. This is where all of your visualizations will be saved during the course.
 
-*TODO Insert publishing screenshots here*
+![git](https://github.com/dataviz-gc/intro-dataviz-summer18/blob/master/img/savingToPublic1.jpg)
+![git](https://github.com/dataviz-gc/intro-dataviz-summer18/blob/master/img/savingToPublic2.jpg)
+![git](https://github.com/dataviz-gc/intro-dataviz-summer18/blob/master/img/savingToPublic3.jpg)
 
 
 ## Getting set up with GitHub and GitHub Pages
