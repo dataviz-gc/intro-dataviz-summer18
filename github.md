@@ -11,7 +11,7 @@ Throughout this course we will build data visualizations using Tableau and share
 We will build all of our data visualizations using Tableau Software. Tableau is a leading data visualization tool. Its drag-and drop-interface allows users to create interactive and dynamic data dashboards without coding. As visual analytics continues to grow, Tableau has become increasingly popular in corporate, nonprofit, and government sectors. 
 
 
-Tableau Desktop comes in two flavors. There's a public version that only allows you to save your work publicly. This the version we will be using throughout the course. However, Tableau Desktop also comes in a professional edition that allows you to save your work locally. This is essential for any proprietary work, which is how Tableau makes their money. This edition is FREE for all students and instructors. You can learn more about Tableau for Students [here](https://www.tableau.com/academic/students).
+Tableau Desktop comes in two flavors. There's a public version that only allows you to save your work publicly. This the version we will be using throughout the course. However, Tableau Desktop also comes in a professional edition that allows you to save your work locally. This is essential for any proprietary work, which is how Tableau makes their money. This edition is FREE for all students and instructors. You can learn more about Tableau for Students [here](https://community.tableau.com/community/students/overview).
 
 #### How to Download the App
 To start building out our technical pipeline, download Tableau:
