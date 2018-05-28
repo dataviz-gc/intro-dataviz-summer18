@@ -1,9 +1,9 @@
-# Introduction to Data Visualization
+# Visualization and Design: Fundamentals
 - CUNY Graduate Center | Summer 2018
-- TODO Course Number
-- Monday - Thursday 6:00 to 8:00 | 5/29 - 6/21 | TODO Location (Room 7395 possibly)
-- Office Hours: By Appointment
+- Course Number DHUM 73000
+- Monday - Thursday 6:00 to 8:00 | 5/29 - 6/21 | Graduate Center, Room 7395
 - Taught by: Erin Daugherty (erin@datadozen.com) and Michelle McSweeney (mam2518@columbia.edu)
+- Office Hours: By Appointment
 
 ## Description
 As employers in every sector continue to search for candidates that can turn their data into actionable information, this course is designed to demystify data analysis by approaching it visually. Using Tableau Software, we will build a series of interactive visualizations that combine data and logic with storytelling and design. We will dive into cleaning and structuring unruly data sets, identifying which chart types work best for different types of data, and unpacking the tactics behind effective visual communication. With an eye towards critical evaluation of both data and method, projects and discussion will be geared towards humanities and social science research. Regardless of your academic concentration, you will walk away from this class with a portfolio of dynamic dashboards and a new interdisciplinary skill set ready to leverage in your academic and professional work.
@@ -132,5 +132,5 @@ Finally, we want to clearly state that our goal for this course is to expose you
 
 ***
 
-Syllabus written by [Erin Daugherty](https://www.linkedin.com/in/erindaugherty/) and [Michelle McSweeney](www.michelleamcsweeney.com), for *Introduction to Data Visualization*, a course in the M.A. in Digital Humanities at the Graduate Center at CUNY. More information about the program is available [here](https://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Masters-Programs/Digital-Humanities).
+Syllabus written by [Erin Daugherty](https://www.linkedin.com/in/erindaugherty/) and [Michelle McSweeney](www.michelleamcsweeney.com), for *Visualization and Design: Fundamentals*, a course in the M.A. in Digital Humanities at the Graduate Center at CUNY. More information about the program is available [here](https://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Masters-Programs/Digital-Humanities).
 
