@@ -25,7 +25,7 @@ We will provide you with feedback by **Friday night at midnight**. We cannot tak
 
 **DUE 12midnight Sunday, June 10** (75%)
 
-You will publish a blog post on your GitHub pages that includes the following components. This written component should be more robust than your first blog post, approximately 750-2,000 words.
+You will publish a blog post on your GitHub pages that includes the following components. This written component should be approximately 500-1,000 words.
 
 1. **Your research question.** We understand that your research question may have evolved or completely changed since you submitted your proposal. However, your blog post must be cohesive. Its description and analysis must reflect the question or topic you have addressed in *this* version of your visualization.
 2. **Your audience.** Describe the audience this visualization aims to serve.
