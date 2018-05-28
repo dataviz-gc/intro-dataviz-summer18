@@ -1,3 +1,99 @@
+# Tech Set Up
+
+Throughout this course we will build data visualizations using Tableau and share what we've built using GitHub. This tutorial will walk you through setting up each piece of our technology pipeline. 
+
+![git](https://github.com/dataviz-gc/intro-dataviz-summer18/blob/master/img/techPipline.png)
+
+
+## STEP 1: Download Tableau Software
+
+### What's Tableau?
+We will build all of our data visualizations using Tableau Software. Tableau is a leading data visualization tool. Its drag-and drop-interface allows users to create interactive and dynamic data dashboards without coding. As visual analytics continues to grow, Tableau has become increasingly popular in corporate, nonprofit, and government sectors. 
+
+
+Tableau Desktop comes in two flavors. There's a public version that only allows you to save your work publicly. This the version we will be using throughout the course. However, Tableau Desktop also comes in a professional edition that allows you to save your work locally. This is essential for any proprietary work, which is how Tableau makes their money. This edition is FREE for all students and instructors. You can learn more about Tableau for Students [here](https://community.tableau.com/community/students/overview).
+
+#### How to Download the App
+To start building out our technical pipeline, download Tableau:
+
+- Go to [Tableau Public](https://public.tableau.com/en-us/s/)
+- Enter your email in the box
+- Click download the app
+- Install the app on your computer
+- Launch Tableau
+
+![git](https://github.com/dataviz-gc/intro-dataviz-summer18/blob/master/img/downloadTableau1.jpg)
+
+![git](https://github.com/dataviz-gc/intro-dataviz-summer18/blob/master/img/downloadTableau2.jpg)
+
+### Build Your First Visualization
+Now you're ready to build your very first visualization! Let's start with something simple. Wel'll look at how populations in different regions around the world have changed over time. First, we'll connect Tableau to a dataset from the United Nations and then we'll build a line graph.
+
+#### How to Connect Tableau to a Data Set
+
+- Download the UN Population Estimates data from [this GitHub folder](https://github.com/dataviz-gc/intro-dataviz-summer18/blob/master/data/week3/Population-Estimates-by-Country-1950-2015-United-Nations.xlsx)
+- Go back to Tableau where you should see a blue panel on the left title *Connect*
+- Click on *Microsoft Excel*, select the *U.N. Population Estimates*, and click *Open*
+- Drag the *Population Estimates UN* sheet into the center space titled *Drag Sheets Here*
+- Click *Sheet 1* in the orange box in the bottom left corner
+
+![git](https://github.com/dataviz-gc/intro-dataviz-summer18/blob/master/img/connectData1.jpg)
+
+![git](https://github.com/dataviz-gc/intro-dataviz-summer18/blob/master/img/connectData2.jpg)
+
+#### How to Build a Line Graph
+On the left side of your screen, the variables in the data set have been split up into dimensions (descriptive pieces of data, like the name of a country or the region where it's located) and measures (pieces of data you'd do math on, like the population). Let's build a line graph that breaks down the world's population by region for the second half of the 20th century. 
+
+- Drag *Year* to Columns
+- Drag *Population* to Rows
+- Drag *Region* to Color
+- Click the dropdown menu that appears when you hover of the *Year* data pill
+- Select *Show Filter*
+- Adjust the Year Filter from 2015 to 2000
+- Double click on *Sheet 1* and title your sheet *Population by Region*
+
+![git](https://github.com/dataviz-gc/intro-dataviz-summer18/blob/master/img/lineChart1.jpg)
+
+![git](https://github.com/dataviz-gc/intro-dataviz-summer18/blob/master/img/lineChart2.jpg)
+
+![git](https://github.com/dataviz-gc/intro-dataviz-summer18/blob/master/img/lineChart3.jpg)
+
+## STEP 2: Create a Tableau Public Profile
+
+### What's a Tableau Public Profile?
+Congratulations! You've just created your very first interactive visualization in Tableau. Now you want to be able to share it with the world. A Tableau Public Profile provides a platform to publish and share your visualizations. It retains all of the aspects that make Tableau's output unique, such as the dynamic filters (like the year filter you added to your line chart above) and the interactive tooltips (those little text boxes that pop up when you hover over a given data point). 
+
+Tableau Software hosts the server and each published visualization comes with a tiny snippet of *embed code* that allows you to embed your visualizations in other platforms, like a website. This is what will allow our GitHub repository to access our visualizations (that's coming up in just a few steps!) Note that when you save your work to your Tableau Public Profile, your visualizations will be available for anyone to access online. *Do NOT publish confidential data to Tableau Public.* 
+
+### Save Your First Visualization
+
+#### How to Create Your Profile
+- Go back to [Tableau Public's website](https://public.tableau.com/en-us/s/)
+- Click on the *SIGN IN* button in the top right corner of the page
+- Click *Create one now for free* at the bottom of the pop up box
+- Fill in your name, email, and password for your profile
+- Verify your account through the email Tableau has just sent you
+
+![git](https://github.com/dataviz-gc/intro-dataviz-summer18/blob/master/img/tableauPublicProfile1.jpg)
+
+![git](https://github.com/dataviz-gc/intro-dataviz-summer18/blob/master/img/tableauPublicProfile2.jpg)
+
+#### How to Publish Your Visualizations
+- Now that you have an account, go back to your Tableau visualization
+- Click on *File*, and then *Save to Tableau Public*
+- Enter your account's email and password into the pop up box
+- Give your Tableau workbook a name, like *My Very First Visualization*
+- As soon as you press save, Tableau will upload your workbook and launch your profile in a web browser.
+- There's your visualization! Test it out. Try adjusting the year filter or hovering over each region's line.
+- Click *My Profile* to return to your profile. This is where all of your visualizations will be saved during the course.
+
+![git](https://github.com/dataviz-gc/intro-dataviz-summer18/blob/master/img/savingToPublic1.jpg)
+
+![git](https://github.com/dataviz-gc/intro-dataviz-summer18/blob/master/img/savingToPublic2.jpg)
+
+![git](https://github.com/dataviz-gc/intro-dataviz-summer18/blob/master/img/savingToPublic3.jpg)
+
+
 ## Getting set up with GitHub and GitHub Pages
 
 GitHub is an invaluable tool for version control, collaboration, and distribution. It also allows users to create free websites that draw directly from the Github *repository* they are associated with. This tutorial will walk you through the process of setting up a GitHub repository, making changes to your Github folder, and creating your first GitHub page. By the end of this tutorial you will:
@@ -136,7 +232,8 @@ Type the following code (not the CODE HERE part)
 	[CODE HERE]
 
 	</body>
-</html>```
+</html>
+```
 
 
 ![git](https://github.com/dataviz-gc/intro-dataviz-summer18/blob/master/img/git17.png)
@@ -178,8 +275,7 @@ Right now, it just has the default settings (depending on your Theme, there may 
 
 Don't change the name of your theme. You can add (or change) the following attributes:
 
-```
-title:
+```title:
 description: 
 layout: (usually this will be `post`)
 logo: (must be located in an `img` folder!)
@@ -201,7 +297,7 @@ If you are comfortable with this workflow, you can customize your site as much a
 
 ______________________________________________________________________________________________________________
 
-Tutorial written by [Michelle McSweeney](www.michelleamcsweeney.com), for *Introduction to Data Visualization*, a course in the M.A. in Digital Humanities at the Graduate Center at CUNY. More information about the program is available [here](https://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Masters-Programs/Digital-Humanities).
+Tutorial written by [Michelle McSweeney](www.michelleamcsweeney.com) and [Erin Daugherty](https://www.linkedin.com/in/erindaugherty/), for *Introduction to Data Visualization*, a course in the M.A. in Digital Humanities at the Graduate Center at CUNY. More information about the program is available [here](https://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Masters-Programs/Digital-Humanities).
 
 
 
