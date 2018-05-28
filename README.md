@@ -121,6 +121,7 @@ Because this is a Summer Session course, we will cover a lot of ground in just f
 | Date              | Time                    | Deadline                             | Platform   |
 | :-------------:    |:-------------:         | :-------------:                      |:-------------:|
 | Sunday, June 24    | Midnight               | Submit All Final Changes to Final Portfolio  | Your Choice |
+| Sunday, June 24    | Midnight               | Publish Your White Paper | Github |
 
 ***
 
