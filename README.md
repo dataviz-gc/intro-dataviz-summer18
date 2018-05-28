@@ -51,7 +51,7 @@ Because this is a Summer Session course, we will cover a lot of ground in just f
 
 | Date              | Seminar             | Reading              | Tableau Tutorial            |
 | -------------     | :-------------:     | :-------------:      | :-------------:             |        
-| Tuesday, May 29   | Introductions, Goals, and Tech Set Up | None Required. *Suggested*:  Friendly, 2007 [A Brief History of Data Visualization](http://www.datavis.ca/papers/vita/Friendly06hbook.html) | Connecting to Data, Bar Chart |
+| Tuesday, May 29   | Introductions, Goals, and Tech Set Up | None Required. *Suggested*:  Friendly, 2007 [A Brief History of Data Visualization](http://www.datavis.ca/papers/vita/Friendly06hbook.html) | [Creating Data](https://docs.google.com/forms/d/1afXx25wKoD9OLGR4t25jriGhHoIl1vXZ-1hkGn28Em4/edit), Connecting to Data, Bar Chart |
 | Wednesday, May 30 | Structuring Research Questions for Data Visualization | Yau 2013 [Chapter 1 Data Points](https://msucreativecomp.files.wordpress.com/2016/08/data_points.pdf) | Text Table, Map, Tooltips, Dashboard Design |
 | Thursday, May 31  | Principles of Data Visualization | Yau 2013, Chapter 3 of *[Data Points](https://msucreativecomp.files.wordpress.com/2016/08/data_points.pdf)* Nussbaumer Knaflic 2015. Chapter 2, *Storytelling With Data: Choosing and Effective Visual* | Exploring a New Data Set, Line Chart, Heatmap |
 
