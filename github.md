@@ -96,14 +96,16 @@ Tableau Software hosts the server and each published visualization comes with a 
 
 ## Getting set up with GitHub and GitHub Pages
 
-GitHub is an invaluable tool for version control, collaboration, and distribution. It also allows users to create free websites that draw directly from the Github *repository* they are associated with. This tutorial will walk you through the process of setting up a GitHub repository, making changes to your Github folder, and creating your first GitHub page. By the end of this tutorial you will:
+GitHub is an invaluable tool for version control, collaboration, and distribution. It also allows users to create free websites that draw directly from the Github *repository* they are associated with. The power of Github comes from its ability to keep data on **both** your computer and the internet in sync. 
+
+This tutorial will walk you through the process of setting up a GitHub repository, making changes to your Github folder, and creating your first GitHub page. By the end of this tutorial you will:
 
 * Have a GitHub Account
 * Interact with GitHub via the Desktop GUI (graphical user interface)
 * Be able to utilize GitHub for storing projects
 * Have a "Hello World" GitHub page with a blog post structure in place
 
-The example site is here: []
+The example site is (here)[https://michellejm.github.io/dataviz_sample/]
 
 #### Set Up
 
@@ -111,12 +113,20 @@ First, you will set up a GitHub account through the browser. Navigate to [github
 
 Now navigate to [desktop.github.com](https://desktop.github.com/) and click on the download button. Follow the prompts on screen until the download has completed and you have installed the program. 
 
-Now navigate to a folder on your computer. In your Documents or [username] are good places do **NOT** set it up in a cloud-based service like Dropbox or GoogleDrive). Make a new folder for this class. I'm going to call mine "dataviz_sample", you can call it anything (as long as there are no spaces - use an underscore), but you will be using it for the entire semester. Your website will be: https://github.com/[USERNAME]/[FOLDER]/. So mine is https://github.com/michellejm/dataviz_sample/.
+Return to GitHub in the browser and click the + in the upper right corner to select 'Create New Repository'. I'm going to call mine "dataviz_sample", you can call it anything (as long as there are no spaces - use an underscore), but you will be using it for the entire semester. Choose wisely: the end result will be a website. Your website name will be: https://github.com/[USERNAME]/[FOLDER]/. So mine is https://github.com/michellejm/dataviz_sample/. 
 
 
-Now, open a text editor ([Sublime](https://www.sublimetext.com/), Atom, and BBEdit are good choices Notepad and TextEdit are fine. MSWord, OpenWord, and Google Docs are not text editors). If you do not have a text editor, we recommend Sublime. You will need a text editor throughout the course.
+![git](https://github.com/dataviz-gc/intro-dataviz-summer18/blob/master/img/git22.png)
 
-Open a new document and type a couple words into it (I usually write "Hello World"). Name it 'index.md' and save it into your new folder. This will be your first webpage! The way websites work is that they always read from the index file first. 'md' stands for 'Markdown'. We will be using [Github-flavored markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
+Set up your new repository in the GitHub Desktop App by clicking the 'Set Up in Desktop' option. This will automatically create a folder on your computer that is sync'd with the folder on the website.
+
+![git](https://github.com/dataviz-gc/intro-dataviz-summer18/blob/master/img/git22.png)
+
+You may have to log in to the Desktop app. From the window that pops up, navigate to a folder on your computer. Your Documents or [username] are good places do **NOT** set it up in a cloud-based service like Dropbox or GoogleDrive). I'm going to call mine "dataviz_sample", you can call it anything (as long as there are no spaces - use an underscore), but you will be using it for the entire semester. Your website will be: https://github.com/[USERNAME]/[FOLDER]/. So mine is https://github.com/michellejm/dataviz_sample/.
+
+Now return to the Github website and click on the blue 'README.md' link. This will create a readme file in your repository (every repository should have a README to tell users about it). Type a couple words into your document (I usually write "Hello World"). And save your changes. You will be returned to the main repository page. 
+
+Now select the 'Create new file' button and name this file 'index.md'. Type some placeholder text here. This will be your first webpage. The way websites work is that they always read from the index file first. 'md' stands for 'Markdown'. We will be using [Github-flavored markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 
 Now that you have all the pieces lined up:
 1. A GitHub Username
@@ -125,12 +135,13 @@ Now that you have all the pieces lined up:
 4. A docs folder for your website files
 5. An empty document
 
-It is time to push your folder to your online repository.
+It is time to push your folder to the repository on your computer.
 
 #### Linking a Repository
 
-Open GitHub Desktop. Log in with your new username and password, and then you will see an empty program box.
+Open GitHub Desktop. Click the 'Sync' button in the upper left side. This will pull the changes you just made on the internet into your computer's folder. 
 
+<!-- 
 Click on the plus sign in the upper left corner
 
 ![git](https://github.com/dataviz-gc/intro-dataviz-summer18/blob/master/img/git2.png)
@@ -144,6 +155,7 @@ The file navigator should appear. Navigate to the file you just created (for me,
 ![git](https://github.com/dataviz-gc/intro-dataviz-summer18/blob/master/img/git4.png)
 
 Now return to GitHub.com in the browser and you should see a repository with the name of your project. If you don't see it, click on your avatar in the upper right corner, then 'Your Profile' and it should be on that page. 
+ -->
 
 #### Creating a Webpage
 
