@@ -120,7 +120,7 @@ Return to GitHub in the browser and click the + in the upper right corner to sel
 
 Set up your new repository in the GitHub Desktop App by clicking the 'Set Up in Desktop' option. This will automatically create a folder on your computer that is sync'd with the folder on the website.
 
-![git](https://github.com/dataviz-gc/intro-dataviz-summer18/blob/master/img/git22.png)
+![git](https://github.com/dataviz-gc/intro-dataviz-summer18/blob/master/img/git23.png)
 
 You may have to log in to the Desktop app. From the window that pops up, navigate to a folder on your computer. Your Documents or [username] are good places do **NOT** set it up in a cloud-based service like Dropbox or GoogleDrive). I'm going to call mine "dataviz_sample", you can call it anything (as long as there are no spaces - use an underscore), but you will be using it for the entire semester. Your website will be: https://github.com/[USERNAME]/[FOLDER]/. So mine is https://github.com/michellejm/dataviz_sample/.
 
