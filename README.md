@@ -26,11 +26,11 @@ By the end of this class, you will be able to:
 During this course, you will complete four assignments: 2 guided projects and a final portfolio accompanied by a white paper. We expect that you will turn in each project before you feel fully ready to do so. You will have the opportunity to submit revisions of the first two blog projects until you're satisfied with the outcome. 
 
 ### Blog Post 1
-##### 25% Final Grade | [Guidelines](https://github.com/dataviz-gc/intro-dataviz-summer18/blob/master/assignments/week1.md)
+##### 25% Final Grade | [Guidelines](https://github.com/dataviz-gc/intro-dataviz-summer18/blob/master/assignments/blogpost1.md)
 One visualization built with New York City's 311 data
 
 ### Blog Post 2
-##### 25% Final Grade | [Guidelines](https://github.com/dataviz-gc/intro-dataviz-summer18/blob/master/assignments/week2.md)
+##### 25% Final Grade | [Guidelines](https://github.com/dataviz-gc/intro-dataviz-summer18/blob/master/assignments/blogpost2.md)
 One visualization with a quantified self data set you've created
 
 ### Final Portfolio 
