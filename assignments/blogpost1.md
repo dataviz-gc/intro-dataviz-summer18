@@ -2,44 +2,48 @@
 
 ### Premise
 
-For this project, you will visualize 311 Data from the New York City Open Data Portal. You can use any complaint that interests you. You will formulate your own research question that can be addressed through the data. If it helps, you can imagine that you have been contracted by the city to gain better insights into the living conditions of New Yorkers. 
+For this project, you will visualize 311 Complaint Data from the New York City Open Data Portal. You will formulate your own research question that can be addressed through the data and identify the audience who would benefit from your research. For example, your investigation might be designed for specific department within the city's government or enable a community group to better align its efforts with the living conditions of its residents. Be creative and think about who you want to serve with your work.
 
-While the aim of this first project is to get you comfortable using data to address a research question, we encourage you to be creative and exploratory.  
+By the end of this project, you will be able to:
+- Access, explore, and leverage a public data source
+- Formulate a research question that a specific data set can address
+- Build a thoughtful and accurate visualization using Tableau 
+- Contextualize the process and scope of your work in a blog post
+- Publish your blog post with your embedded visualization using GitHub Pages
 
-### Part I: Project Proposal 
+
+## PART I: Project Proposal 
 
 **DUE 6pm Friday, June 1** (10%)
 
 
-You will submit, via email, an approximately 1 page project proposal that addresses:
-1. **A research question.** Your question can take the shape of a question, topic, or title, but it must be coherent and the type of question that can be addressed in a data visualization. For example, your project may start with "What month has the most heating complaints?" and then expand into "What year(s) had the most heating complaints, and were those years colder than other years?" 
-2. **Justification for the question**. Why should we care about your question? Why is it important? You can give narrative context or a very direct statement of what is at stake. For example, "Understanding heating complaints is important because access to adequate heating is a public health issue, and by having an understanding of when the complaints peak, we may be able to direct resources to assist those who are at the highest risk." or "Understanding the nature of heating complaints in the city may help to identify delinquent landlords and address the problem."
-3. **The data you will use to address your question**. You must include the source and a brief description of what is available in the dataset. This time, you will use the 311 data, so at this stage, you should know what aspect of the 311 data you will use. For example, "Heating complaints made in all five boroughs, organized by date from 2010 to present." 
-4. **A sketch of how you will visualize your data**. The sketch must be visual, preferably hand drawn. You may sketch it on a computer in a program such as [Gimp](https://www.gimp.org/downloads/) or [Tayuski Sketches for iPhone](https://itunes.apple.com/us/app/tayasui-sketches/id641900855?mt=8), [Medibang Paint](https://downloads.tomsguide.com/MediBang-Paint,0301-70484.html), etc. The point is that it should not be a computer generated graph or other visual at this stage. Attach this as an image to the email.
+You will send us an email that outlines these four aspects of your proposed project. 
+1. **Your research question.** Your research goal can take the shape of a question, topic, or title, but it must be coherent and addressable by this data set and through a visualization. We expect your research question will develop as you work with the data set. For example, your project may start with "What month has the most heating complaints?" and then expand into "What year(s) had the most heating complaints, and were those years colder than other years?" 
+2. **Your audience**. Who would benefit from an answer to your research question? Why does this question matter to them? You can give narrative context or a very direct statement of what is at stake. For example, "Understanding heating complaints is important to the Department of Public Health. By better understanding when heating complaints peak, they can better direct resources to assist those who are at the highest risk." As you begin to design your visualization, consider what functionality (such as filters or tooltips) would benefit this audience the most. 
+3. **The data you will use to address your question**. You must include the source and a brief description of the variables available in the data set that will be useful for your investigation. For example, "Heating complaints made in all five boroughs, organized by date from 2010 to present." 
+4. **A sketch of how you plan to visualize your data**. The sketch must be visual, preferably hand drawn. If you'd prefer, you may sketch it on a computer in a program such as [Gimp](https://www.gimp.org/downloads/), [Tayuski Sketches for iPhone](https://itunes.apple.com/us/app/tayasui-sketches/id641900855?mt=8), [Medibang Paint](https://downloads.tomsguide.com/MediBang-Paint,0301-70484.html), etc. This sketch should not be a computer generated graph or other visual at this point in the process. It should be your initial ideas about what your visualization's ideal form might be to best answer the research question you've proposed. Attach a picture of this sketch to your email.
 
 We will provide you with feedback by **Friday night at midnight**. We cannot take late submissions, but can take early ones. This timeframe is to ensure that what you have planned is reasonable and realistic. If we have revisions, you will not need to submit a revised proposal. However, if there are major changes that need to be made, we may ask to schedule a video chat over the weekend to help reframe your project. 
 
-### Part II: Visualization and Blog Post 
+## PART II: Visualization and Blog Post 
 
 **DUE 12midnight Sunday, June 3** (75%)
 
-You will post a blog post on your Github page that includes:
-1. **Your research question** It is ok if this has changed since submitting the proposal, but must reflect the question or topic you have addressed in *this* version of your visualization.
-2. **Context for the novice reader** So a stranger visiting your site understands why your question or topic is important
-3. **Your visualization made in Tableau Public**
-4. **An explanation of the data and design decisions you made** This section should illustrate what you did and why you did it. Why did you choose the type of chart/graph/visualization that you did, how does that choice best represent the data and address your question? Through this explanation, you will illustrate that the decisions you made were intentional and how they contribute to the project. If there are compromises you had to make with the data or design, they should be explained here (and where you ended up with the compromise and why). If you used the defaults, explain why they were the best option for your visualization and your question.
-5. **Next Steps**. What are the next steps you would take given the opportunity - how would you iterate on it to either make it better, constrain it, or develop it. Where does this project go from here?
+You will publish a blog post on your GitHub pages that includes the following components. This written component should be approximately 500-1,000 words.
+1. **Your research question.** We understand that your research question may have evolved or completely changed since you submitted your proposal. However, your blog post must be cohesive. Its description and analysis must reflect the question or topic you have addressed in *this* version of your visualization.
+2. **Your audience.** Describe the audience this visualization aims to serve.
+3. **A written description of your visualization.** Explain your visualization in terms that a data novice would understand. Your goal is to make your work approachable. At this point in your post, anyone who has come across your site should understand what your research question is, why this topic matters to your audience, and how to read and interact with your visualization.
+4. **Your embedded visualization.** Your visualization should be published on your Tableau Public Profile and embedded in your blog post. It should retain all the interactive functionality you built in Tableau. 
+5. **An explanation of the data and design decisions you made.** This section should illustrate what you did and why you did it. Why did you choose the type of chart/graph/visualization that you did? How does that choice best represent the data and address your question? Through this explanation, you will illustrate that the decisions you made were intentional and how they contribute to the project. You should also explain any limitations you encountered and any subsequent compromises you made with the data or your design. 
+6. **Next steps**. Finally, explain where you could take this project in the future. What would the immediate and more complex next steps look like? What improvements, developments, or alterations in scope would you make? 
 
-The written component should be approximately 500-1,000 words
 
-### Part III: Pin Up 
+
+## PART III: Pin Up 
 
 **DUE in class June 4** (15%)
 
-The final component is a pin up and critique. You must be present in class for the critique. Since critique is essential but ephemeral, if you have extenuating circumstances that prohibit you from attending a Monday session, contact Michelle and Erin in advance to make arrangements. 
-
-1. Be present to receive feedback of your work
-2. Offer thoughtful feedback on others' work
+The final component of this project is a pin up and critique. Each student will have the opportunity to receive thoughtful feedback about their work and offer the same to their peers. You must be present in class for the critique. Since critique is essential but ephemeral, if you have extenuating circumstances that prohibit you from attending a Monday session, contact Michelle and Erin in advance to make arrangements. 
 
 Some questions to help shape feedback:
 
@@ -48,7 +52,8 @@ Some questions to help shape feedback:
 * Does the visualization fit the data?
 * Who is the intended audience of this visualization?
 * Was the author successful in depicting the relationships in the data? 
-* Is the output informative and honest, or misleading?
+* Is the output informative and honest?
+* Where could a consumer misinterpret the data?
 
 #### Some notes 
 
@@ -58,28 +63,34 @@ Finally, we expect that the end product (from the website to the visualizations)
 
 
 
-### Evaluation
+## Evaluation
 
-Part I: 10/10 for submitting on time. As noted, we cannot take late submissions, but can take early ones.
+#### Part I (10%)
 
-Part II: 
+10/10 for submitting on time. As noted, we cannot take late submissions, but can take early ones.
+
+#### Part II (75%)
+
+As we examine your blog post and visualization, we will consider the following elements:
 
 * Appropriate choice of visualization (20)
-	* The choice of graph or chart represents the data truthfully
 	* The visualization type addresses the research question
+	* The choice of graph or chart represents the data truthfully
 * Effective Communication (20)
 	* Intended message is communicated clearly
 	* Data are accurately represented without distortion
 * Design and Aesthetics (20)
-	* All elements and features of the visualization have a communicative function (i.e., no chartjunk)
-	* Aesthetically pleasing, limited clutter, good use of color contrast
-	* Title, headings, labels: Appropriate size, location, spelling, and content
+	* All elements and features of the visualization have a communicative function
+	* The visualization has a thoughtful layout and an intentional design
+	* Title, headings, labels create helpful context and have appropriate sizes, locations, spellings
 * Content of Blog Post (15)
+	* The blog provides helpful context that makes the visualization more understandable and approachable
+	* The writing provides the reader an inside look into the visualization's intent and creation process
 	* All components of blog post are addressed
-	* Clear communication about intent and decision making process
-	* Decisions in line with good visualization practices (see [Data Points](https://msucreativecomp.files.wordpress.com/2016/08/data_points.pdf) and [Storytelling with Data](http://sfx.cuny.edu:9003/sfx_local-GC?ctx_ver=Z39.88-2004&ctx_enc=info:ofi/enc:UTF-8&ctx_tim=2018-05-18T17%3A33%3A53IST&url_ver=Z39.88-2004&url_ctx_fmt=infofi/fmt:kev:mtx:ctx&rfr_id=info:sid/primo.exlibrisgroup.com:primo3-Article-ingram_myilibrary&rft_val_fmt=info:ofi/fmt:kev:mtx:book&rft.genre=book&rft.atitle=&rft.jtitle=&rft.btitle=Storytelling%20with%20Data&rft.aulast=&rft.auinit=&rft.auinit1=&rft.auinitm=&rft.ausuffix=&rft.au=Nussbaumer%20Knaflic,%20Cole&rft.aucorp=&rft.date=&rft.volume=&rft.issue=&rft.part=&rft.quarter=&rft.ssn=&rft.spage=&rft.epage=&rft.pages=&rft.artnum=&rft.issn=&rft.eissn=&rft.isbn=9781119002253&rft.sici=&rft.coden=&rft_id=info:doi/&rft.object_id=&rft_dat=%3Cingram_myilibrary%3E9781119002260%3C/ingram_myilibrary%3E%3Cgrp_id%3E6343764358741316298%3C/grp_id%3E%3Coa%3E%3C/oa%3E%3Curl%3E%3C/url%3E&rft.eisbn=9781119002260&rft_id=info:oai/&req.language=eng&disable_directlink=true&sfx.directlink=off&rft_pqid=))
+	* Decisions are in line with good visualization practices (see [Data Points](https://msucreativecomp.files.wordpress.com/2016/08/data_points.pdf) and [Storytelling with Data](http://sfx.cuny.edu:9003/sfx_local-GC?ctx_ver=Z39.88-2004&ctx_enc=info:ofi/enc:UTF-8&ctx_tim=2018-05-18T17%3A33%3A53IST&url_ver=Z39.88-2004&url_ctx_fmt=infofi/fmt:kev:mtx:ctx&rfr_id=info:sid/primo.exlibrisgroup.com:primo3-Article-ingram_myilibrary&rft_val_fmt=info:ofi/fmt:kev:mtx:book&rft.genre=book&rft.atitle=&rft.jtitle=&rft.btitle=Storytelling%20with%20Data&rft.aulast=&rft.auinit=&rft.auinit1=&rft.auinitm=&rft.ausuffix=&rft.au=Nussbaumer%20Knaflic,%20Cole&rft.aucorp=&rft.date=&rft.volume=&rft.issue=&rft.part=&rft.quarter=&rft.ssn=&rft.spage=&rft.epage=&rft.pages=&rft.artnum=&rft.issn=&rft.eissn=&rft.isbn=9781119002253&rft.sici=&rft.coden=&rft_id=info:doi/&rft.object_id=&rft_dat=%3Cingram_myilibrary%3E9781119002260%3C/ingram_myilibrary%3E%3Cgrp_id%3E6343764358741316298%3C/grp_id%3E%3Coa%3E%3C/oa%3E%3Curl%3E%3C/url%3E&rft.eisbn=9781119002260&rft_id=info:oai/&req.language=eng&disable_directlink=true&sfx.directlink=off&rft_pqid=))
 
-Part III: 15/15 for actively participating in the pinup
+#### Part III (15%)
+15/15 for actively participating in the pinup. This includes sincerely listening to the feedback from the class as well generously offering your best ideas for improving the work of your peers. 
 
 
 
