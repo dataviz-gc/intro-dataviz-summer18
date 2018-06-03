@@ -53,7 +53,7 @@ Because this is a Summer Session course, we will cover a lot of ground in just f
 | -------------     | :-------------:     | :-------------:      | :-------------:             |        
 | Tuesday, May 29   | Introductions, Goals, and Tech Set Up | None Required. *Suggested*:  Friendly, 2007 [A Brief History of Data Visualization](http://www.datavis.ca/papers/vita/Friendly06hbook.html) | [Creating Data](https://docs.google.com/forms/d/1afXx25wKoD9OLGR4t25jriGhHoIl1vXZ-1hkGn28Em4/edit), Connecting to Data, Bar Chart |
 | Wednesday, May 30 | Structuring Research Questions for Data Visualization | Yau 2013 [Chapter 1 Data Points](https://msucreativecomp.files.wordpress.com/2016/08/data_points.pdf) | Text Table, Map, Tooltips, Dashboard Design |
-| Thursday, May 31  | Principles of Data Visualization | Yau 2013, Chapter 3 of *[Data Points](https://msucreativecomp.files.wordpress.com/2016/08/data_points.pdf)* Nussbaumer Knaflic 2015. Chapter 2, *Storytelling With Data: Choosing and Effective Visual* | Exploring a New Data Set, Line Chart, Heatmap |
+| Thursday, May 31  | Principles of Data Visualization | Yau 2013, Chapter 3 of *[Data Points](https://msucreativecomp.files.wordpress.com/2016/08/data_points.pdf)* Nussbaumer Knaflic 2015. Chapter 2, [*Storytelling With Data: Choosing and Effective Visual*](https://www.zotero.org/groups/2189695/dv-dataviz) | Exploring a New Data Set, Line Chart, Heatmap |
 
 #### Assignment Deadlines
 
@@ -71,9 +71,9 @@ Because this is a Summer Session course, we will cover a lot of ground in just f
 | Date              | Seminar             | Reading              | Tableau Tutorial            |
 | -------------     | :-------------:     | :-------------:      | :-------------:             |         
 | Monday, June 4    | Blog Post 1 Pin Up   | Viegas & Wattenberg 2015 [Design and Redesign in Data Visualization](https://medium.com/@hint_fm/design-and-redesign-4ab77206cf9) *Optional: Tufte 1997 The Decision to Launch the Space Shuttle Challenger in Visual and Statistical Thinking*  | Data Structure |
-| Tuesday, June 5   | *Explore Projects for Class:*  [Dear Data 1](http://www.dear-data.com/theproject) & [Dear Data 2](http://www.dear-data-two.com/)| [Giorgia Lupi Dear Data TED Talk](https://www.ted.com/talks/giorgia_lupi_how_we_can_find_ourselves_in_data) Gitelman, 2013 ["Raw Data" Is An Oxymoron LINK BROKEN]() | Data Joins |
+| Tuesday, June 5   | *Explore Projects for Class:*  [Dear Data 1](http://www.dear-data.com/theproject) & [Dear Data 2](http://www.dear-data-two.com/)| [Giorgia Lupi Dear Data TED Talk](https://www.ted.com/talks/giorgia_lupi_how_we_can_find_ourselves_in_data) Gitelman, 2013 ["Raw Data" Is An Oxymoron](https://www.zotero.org/groups/2189695/dv-dataviz) | Data Joins |
 | Wednesday, June 6 | Personal Data | Posner, 2016 [What’s Next: The Radical, Unrealized Potential of Digital Humanities](http://dhdebates.gc.cuny.edu/debates/text/54)  |Calculated Fields | 
-| Thursday, June 7 | *Bring 3 Examples to Class:* Data Visualizations in the Media | Drucker 2015 [Humanities Approach to Graphical Design](https://onlinelibrary.wiley.com/doi/10.1002/9781118680605.ch17) | Parameters |
+| Thursday, June 7 | *Bring 3 Examples to Class:* Data Visualizations in the Media | Drucker 2015 [Humanities Approach to Graphical Design](https://www.zotero.org/groups/2189695/dv-dataviz) | Parameters |
 
 #### Assignment Deadlines
 
@@ -91,9 +91,9 @@ Because this is a Summer Session course, we will cover a lot of ground in just f
 | Date         | Seminar             | Reading              | Tableau Tutorial            |
 | -------------     | :-------------:     | :-------------:      | :-------------:             | 
 | Monday, June 11   | Blog Post 2 Pin Up   |  Solnit, 2016 [Nonstop Metropolis](http://www.ucpress.edu/book.php?isbn=9780520285958)  | Treemaps |
-| Tuesday, June 12  | Distant Reading | Schulz 2011 [NYTimes Book Review](http://www.nytimes.com/2011/06/26/books/review/the-mechanic-muse-what-is-distant-reading.html) of Graphs, Maps, and Trees & Moretti 2007 [Graphs, Maps, and Trees LINK BROKEN]()  | Dispersion Plots |
+| Tuesday, June 12  | Distant Reading | Schulz 2011 [NYTimes Book Review](http://www.nytimes.com/2011/06/26/books/review/the-mechanic-muse-what-is-distant-reading.html) of Graphs, Maps, and Trees & Moretti 2007 [Graphs, Maps, and Trees](https://www.zotero.org/groups/2189695/dv-dataviz)  | Dispersion Plots |
 | Wednesday, June 13| Maps as Visualizations | [Tufte - Chapter 2](https://github.com/yowenter/books/blob/master/Design/Edward%20R%20Tufte%20-The%20Visual%20Display%20of%20Quantitative%20Information.pdf) | Area Charts, Bullet Graphs |
-| Thursday, June 14 | Grounded Theory and Visualization | Knigge & Cope 2006 [Grounded visualization: integrating the analysis of qualitative and quantitative data through grounded theory and visualization](http://journals.sagepub.com/doi/pdf/10.1068/a37327) | Bump Chart, Donut Chart |
+| Thursday, June 14 | Grounded Theory and Visualization | Knigge & Cope 2006 [Grounded visualization: integrating the analysis of qualitative and quantitative data through grounded theory and visualization](https://www.zotero.org/groups/2189695/dv-dataviz) | Bump Chart, Donut Chart |
 
 #### Assignment Deadlines
 
