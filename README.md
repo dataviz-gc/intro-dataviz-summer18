@@ -52,8 +52,8 @@ Because this is a Summer Session course, we will cover a lot of ground in just f
 | Date              | Seminar             | Reading              | Tableau Tutorial            |
 | -------------     | :-------------:     | :-------------:      | :-------------:             |        
 | Tuesday, May 29   | Introductions, Goals, and Tech Set Up | None Required. *Suggested*:  Friendly, 2007 [A Brief History of Data Visualization](http://www.datavis.ca/papers/vita/Friendly06hbook.html) | [Creating Data](https://docs.google.com/forms/d/1afXx25wKoD9OLGR4t25jriGhHoIl1vXZ-1hkGn28Em4/edit), Connecting to Data, Bar Chart |
-| Wednesday, May 30 | Structuring Research Questions for Data Visualization | Yau 2013 [Chapter 1 Data Points](https://msucreativecomp.files.wordpress.com/2016/08/data_points.pdf) | Text Table, Map, Tooltips, Dashboard Design |
-| Thursday, May 31  | Principles of Data Visualization | Yau 2013, Chapter 3 of *[Data Points](https://msucreativecomp.files.wordpress.com/2016/08/data_points.pdf)* Nussbaumer Knaflic 2015. Chapter 2, [*Storytelling With Data: Choosing and Effective Visual*](https://www.zotero.org/groups/2189695/dv-dataviz) | Exploring a New Data Set, Line Chart, Heatmap |
+| Wednesday, May 30 | Structuring Research Questions for Data Visualization | Yau 2013 [Chapter 1 Data Points](https://msucreativecomp.files.wordpress.com/2016/08/data_points.pdf) | [Text Table, Map, Tooltips, Dashboard Design](https://public.tableau.com/profile/erin.daugherty#!/vizhome/RestaurantsinNewYorkCity/Dashboard1) |
+| Thursday, May 31  | Principles of Data Visualization | Yau 2013, Chapter 3 of *[Data Points](https://msucreativecomp.files.wordpress.com/2016/08/data_points.pdf)* Nussbaumer Knaflic 2015. Chapter 2, [*Storytelling With Data: Choosing and Effective Visual*](https://www.zotero.org/groups/2189695/dv-dataviz) | [Exploring a New Data Set, Line Chart, Heatmap](https://public.tableau.com/profile/erin.daugherty#!/vizhome/311DataThursdayMay312018/Dashboard1) |
 
 #### Assignment Deadlines
 
