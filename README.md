@@ -72,7 +72,7 @@ Because this is a Summer Session course, we will cover a lot of ground in just f
 | -------------     | :-------------:     | :-------------:      | :-------------:             |         
 | Monday, June 4    | Blog Post 1 Pin Up   | Viegas & Wattenberg 2015 [Design and Redesign in Data Visualization](https://medium.com/@hint_fm/design-and-redesign-4ab77206cf9) *Optional: Tufte 1997 The Decision to Launch the Space Shuttle Challenger in Visual and Statistical Thinking*  | Data Structure |
 | Tuesday, June 5   | *Explore Projects for Class:*  [Dear Data 1](http://www.dear-data.com/theproject) & [Dear Data 2](http://www.dear-data-two.com/)| [Giorgia Lupi Dear Data TED Talk](https://www.ted.com/talks/giorgia_lupi_how_we_can_find_ourselves_in_data) Gitelman, 2013 ["Raw Data" Is An Oxymoron](https://www.zotero.org/groups/2189695/dv-dataviz) | Data Joins |
-| Wednesday, June 6 | Personal Data | Posner, 2016 [What’s Next: The Radical, Unrealized Potential of Digital Humanities](http://dhdebates.gc.cuny.edu/debates/text/54)  |Calculated Fields | 
+| Wednesday, June 6 | Personal Data | Posner, 2016 [What’s Next: The Radical, Unrealized Potential of Digital Humanities](http://dhdebates.gc.cuny.edu/debates/text/54) *Suggested* Lupi, 2017. [Data Humanism](https://medium.com/@giorgialupi/data-humanism-the-revolution-will-be-visualized-31486a30dbfb) |Calculated Fields | 
 | Thursday, June 7 | *Bring 3 Examples to Class:* Data Visualizations in the Media | Drucker 2015 [Humanities Approach to Graphical Design](https://www.zotero.org/groups/2189695/dv-dataviz) | Parameters |
 
 #### Assignment Deadlines
