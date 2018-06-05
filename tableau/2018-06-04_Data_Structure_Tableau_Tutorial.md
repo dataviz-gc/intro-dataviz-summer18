@@ -1,5 +1,5 @@
 # Restructuring Data for Tableau
-Tableau Tutorial Cheatsheet | Thursday, May 31, 2018
+Tableau Tutorial Cheatsheet | Monday, June 4, 2018
 
 ### Goals
 
