@@ -1,11 +1,12 @@
-# Joining Multiple Tables in Tableau
+# Joining Tables in Tableau
 Tableau Tutorial Cheatsheet | Tuesday, June 5, 2018
 
 ### Goals
 
 - Understand the basic reasoning behind relational databases
-- Identify the differences between a inner, left, right, and outer join
+- Identify the differences between a inner, left, right, and full outer joins
 - Build a dataset by joining several tables in Tableau
+- Build a dataset by joining two tables on multiple variables
 
 ### What Are Joins?
 Joins let us connect separate tables of data that share a common variable. We often store data in smaller, separate tables that just contain information about one topic. This makes the data much easier to maintain. The table might only contain a few variables, but if it shares a piece of information with another smaller table, like a data, ID, or location, we can connect multiple tables to create a more robust dataset by establishing a join on that shared variable. 
@@ -15,7 +16,7 @@ For example, let's say you have a table of all the emails you've received over t
 Let's first look at a small example with just a few records per table to understand the four different types of join, and then move on to a much larger tables from the UN that require us to create joins on multiple variables. 
 
 ## Person, Pets, Jobs: Tiny Example
-Our first example will use a few tiny tables about my family: a Person Table, a Pet Table, a Pet Nickname Table, and a Job Table. 
+Our first example will use a few tiny tables about my family: a Person Table, a Pet Table, a Pet Nickname Table, and a Job Table. There are only a few records in each table to demonstrate how each join works. 
 
 
 ### Four Types of Joins
@@ -66,7 +67,7 @@ Right joins are much less commonly used, mainly because if you actually cared ab
 Last but not least, change the join type to full outer. You'll see the entire venn diagram icon filled in. All records from both tables will be kept and any missing values will just be filled in with *null*. This means that Emma from the Person Table appears even though she doesn't have any pets, and Cody from the Pet Table appears even though he doesn't have a person in the table. In our email example, this would mean all of your emails and all of your contacts would be included in the dataset. 
 
 
-### Connecting Multiple Tables
+### Connecting Three or More Tables
 Now let's connect multiple tables. You'll see that as we add more tables, the number of records will increase.
 
 ![git](https://github.com/dataviz-gc/intro-dataviz-summer18/blob/master/img/join_multiple_tables.png)
@@ -85,4 +86,22 @@ The dataset you've created now has 15 variables. Think of updating this dataset 
 It also makes your data much more flexible. Let's say you just wanted to look at the Person and the Job tables. You wouldn't have the mess with the Pet data at all. Smaller tables like this make it much easier to only work with the data you need.  
 
 ## UN Data: Joining on Multiple Variables
+
+Now let's move on to a more realistic example of when you'll use joins. Go to the UN's Population Division's [Download Center](https://esa.un.org/unpd/wpp/Download/Standard/Population/) and toggle over to CSV format. This is where the two UN tables in today's Excel Workbook come from. Take a look at the instructions to combine tables: "Use the LocID, VarID and Time columns to link the data across the different files, if necessary. Note that Time differs between single year (e.g. 1950) and period (e.g. 1950-1955) data." These are our join instructions. 
+
+In order to connect these two tables, we have to join on multiple variables. Take a moment and think about why. If we connect population data for multiple years. 
+
+Let's use this information in Tableau.
+
+
+### If We Use an Inner Join (8,190 Records)
+
+
+
+
+### If We Use a Left Join (41,123 Records)
+
+
+
+
 
