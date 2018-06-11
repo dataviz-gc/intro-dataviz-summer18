@@ -97,8 +97,6 @@ Let's use this information in Tableau.
 ### If We Use an Inner Join (8,190 Records)
 
 
-
-
 ### If We Use a Left Join (41,123 Records)
 
 
