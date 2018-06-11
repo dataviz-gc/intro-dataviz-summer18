@@ -93,7 +93,7 @@ Because this is a Summer Session course, we will cover a lot of ground in just f
 | Monday, June 11   | Blog Post 2 Pin Up   |  Solnit, 2016 [Nonstop Metropolis](http://www.ucpress.edu/book.php?isbn=9780520285958) (2 pieces in Zotero Library)  | Treemaps |
 | Tuesday, June 12  | Distant Reading | Schulz 2011 [NYTimes Book Review](http://www.nytimes.com/2011/06/26/books/review/the-mechanic-muse-what-is-distant-reading.html) of Graphs, Maps, and Trees & Moretti 2007 [Graphs, Maps, and Trees](https://www.zotero.org/groups/2189695/dv-dataviz)  | Dispersion Plots |
 | Wednesday, June 13| Maps as Visualizations | Knigge & Cope 2006 [Grounded visualization: integrating the analysis of qualitative and quantitative data through grounded theory and visualization](https://www.zotero.org/groups/2189695/dv-dataviz)  | Area Charts, Bullet Graphs |
-| Thursday, June 14 | Grounded Theory and Visualization | [Tufte - Chapter 2 - Graphical Integrity](https://github.com/yowenter/books/blob/master/Design/Edward%20R%20Tufte%20-The%20Visual%20Display%20of%20Quantitative%20Information.pdf) | Bump Chart, Donut Chart |
+| Thursday, June 14 | Advanced Considerations | [Tufte - Chapter 2 - Graphical Integrity](https://github.com/yowenter/books/blob/master/Design/Edward%20R%20Tufte%20-The%20Visual%20Display%20of%20Quantitative%20Information.pdf) | Bump Chart, Donut Chart |
 
 #### Assignment Deadlines
 
