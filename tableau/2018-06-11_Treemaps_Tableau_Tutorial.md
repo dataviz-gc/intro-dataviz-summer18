@@ -1,5 +1,5 @@
 # Treemaps & Dispersion Plots: Visualizing Text
-Tableau Tutorial Cheatsheet | Monday, June 11 and Tuesday, June 12, 2018
+Tableau Tutorial Cheatsheet | Tuesday, June 12 and Wednesday, June 13, 2018
 
 ### Goals
 
@@ -73,7 +73,7 @@ And that's it! A treemap is very easy to make in Tableau. However, tooltips and 
 ### Small Multiples
 Finally, if you want to see how this treemap changes during different books, show the Malory's Book data pill and filter it just to the first book of eight. Duplicate the treemap to create eight visualizations that are all identical except they're each filtered to just one book. Now drag them each into a single dashboard (lining them up so they progress from book 1 through 8). Once you've adjusted the tiles, add a highlight dashboard action on Character Name. (Dashboard Menu > Action... > Add Action > Highlight... > OK). Now your end user can easily hover over any single character's name and see how dominant they are throughout the eight different books.
 
-## Dispersion Plots (6/12/18)
+## Dispersion Plots (6/13/18)
 
 
 
