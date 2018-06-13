@@ -73,11 +73,26 @@ And that's it! A treemap is very easy to make in Tableau. However, tooltips and 
 ### Small Multiples
 Finally, if you want to see how this treemap changes during different books, show the Malory's Book data pill and filter it just to the first book of eight. Duplicate the treemap to create eight visualizations that are all identical except they're each filtered to just one book. Now drag them each into a single dashboard (lining them up so they progress from book 1 through 8). Once you've adjusted the tiles, add a highlight dashboard action on Character Name. (Dashboard Menu > Action... > Add Action > Highlight... > OK). Now your end user can easily hover over any single character's name and see how dominant they are throughout the eight different books.
 
-## Dispersion Plots (6/13/18)
+### Treemap Cousins: Bubble Charts & Word Clouds
+Bubble chart and word clouds are close cousins to the treemap. Think about why. A treemap makes a mark as a rectangle and then sizes that rectangle based on how many times that item occurred. A bubble chart and word cloud do the exact same thing. The only difference is the type of mark. Try it out.
 
+- Start by creating a treemap. Drag Character Name to Text and drag Number of Records to size. Tableau will default to a treemap by using the Square mark type. You can see this in the Marks dropdown menu. 
+- Click the mark type dropdown menu on the marks card and change the mark type to a circle. Now you have a bubble chart. 
+- If you click on the Character Name pill on the marks card and sort the character names from most occurrences to least, you'll end up with a cleaner bubble chart.
+- Finally, change the mark type from Circle to Text. Now you have a word cloud. The character name is sized by how many times it occurs. 
 
+## Dispersion Plots
+Dispersion plots are a common way to visualize the occurrence of something over the course of a book. They use the time of the book as the x axis (usually word order goes here, starting with the first word of the book and ending with the last). Then we'll make a tick mark at a certain word location when something occurs. In our case, this will be when a character's name appears. 
 
+Let's build a dispersion plot for several characters.
+- Create a new sheet and filter the visualization to just Malory's text using the Writer Name pill.
+- Now drag character name to filter. Choose several characters: Arthur, Launcelot, Guenever, Merlin, Mordred, Tristram, Isould. 
+- Drag Character Name to Rows and these character names will appear. 
+- Drag Word Location to Columns and change the pill from Measure(Sum) to a Dimension (it should still be continuous).
+- Finally, drag Malory's Book Number onto Color. 
 
-
-
-
+Now let's visualize the entire book at once.
+- Duplicate your dispersion plot and name the sheet Entire Book. 
+- Right click on a characters name displayed on the Y axis and uncheck show header. This will make the characters names disappear. 
+- Now simply remove the Character Name pill from the filter and you will see dispersion plots for all the characters at once. 
+- Notice the two vertical lines. The first is a jousting tournament. The second is the final battle.  
