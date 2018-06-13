@@ -11,5 +11,5 @@ Summer 2018
 
 [Sumit Poudyal](https://spoudyal1989.github.io/datavizsample/)
 
-[Sabina Pringle]
+Sabina Pringle
 
