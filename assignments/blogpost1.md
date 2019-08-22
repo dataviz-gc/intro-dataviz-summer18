@@ -14,7 +14,7 @@ By the end of this project, you will be able to:
 
 ## PART I: Project Proposal 
 
-**DUE 6pm Friday, June 1** (10%)
+**DUE 6am Sunday, Septemeber 22** (10%)
 
 
 You will send us an email that outlines these four aspects of your proposed project. 
@@ -23,11 +23,11 @@ You will send us an email that outlines these four aspects of your proposed proj
 3. **The data you will use to address your question**. You must include the source and a brief description of the variables available in the data set that will be useful for your investigation. For example, "Heating complaints made in all five boroughs, organized by date from 2010 to present." 
 4. **A sketch of how you plan to visualize your data**. The sketch must be visual, preferably hand drawn. If you'd prefer, you may sketch it on a computer in a program such as [Gimp](https://www.gimp.org/downloads/), [Tayuski Sketches for iPhone](https://itunes.apple.com/us/app/tayasui-sketches/id641900855?mt=8), [Medibang Paint](https://downloads.tomsguide.com/MediBang-Paint,0301-70484.html), etc. This sketch should not be a computer generated graph or other visual at this point in the process. It should be your initial ideas about what your visualization's ideal form might be to best answer the research question you've proposed. Attach a picture of this sketch to your email.
 
-We will provide you with feedback by **Friday night at midnight**. We cannot take late submissions, but can take early ones. This timeframe is to ensure that what you have planned is reasonable and realistic. If we have revisions, you will not need to submit a revised proposal. However, if there are major changes that need to be made, we may ask to schedule a video chat over the weekend to help reframe your project. 
+I cannot take late submissions, but can take early ones. This timeframe is to ensure that what you have planned is reasonable and realistic. If you have revisions, you will not need to submit a revised proposal. However, if there are major changes that need to be made, I may ask to schedule a video chat to help reframe your project. 
 
 ## PART II: Visualization and Blog Post 
 
-**DUE 12midnight Sunday, June 3** (75%)
+**DUE 6pm Thursday, September 26th** (75%)
 
 You will publish a blog post on your GitHub pages that includes the following components. This written component should be approximately 500-1,000 words.
 1. **Your research question.** We understand that your research question may have evolved or completely changed since you submitted your proposal. However, your blog post must be cohesive. Its description and analysis must reflect the question or topic you have addressed in *this* version of your visualization.
@@ -41,7 +41,7 @@ You will publish a blog post on your GitHub pages that includes the following co
 
 ## PART III: Pin Up 
 
-**DUE in class June 4** (15%)
+**DUE in class September 26th** (15%)
 
 The final component of this project is a pin up and critique. Each student will have the opportunity to receive thoughtful feedback about their work and offer the same to their peers. You must be present in class for the critique. Since critique is essential but ephemeral, if you have extenuating circumstances that prohibit you from attending a Monday session, contact Michelle and Erin in advance to make arrangements. 
 
@@ -59,7 +59,7 @@ Some questions to help shape feedback:
 
 You can use as many or as few visuals to address your question/topic as you wish and as you feel is appropriate.  We expect that you will turn things in before you feel they are complete. That is normal. You can continue to iterate on them until you are satisfied, but the first version must be completed by Sunday night (we will re-assess the grade if appropriate). 
 
-Finally, we expect that the end product (from the website to the visualizations) will be reflective of you and your style and that everyone's will be very different. The objective is that you will have a portfolio of work at the end of the semester that illustrates your visualization skills. If you already have a portfolio or a personal site, talk to us about how to incorporate the two.
+Finally, the end product (from the website to the visualizations) should be reflective of you and your style and that everyone's will be very different. The objective is that you will have a portfolio of work at the end of the semester that illustrates your visualization skills. If you already have a portfolio or a personal site, talk to me about how to incorporate the two.
 
 
 
