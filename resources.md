@@ -1,34 +1,58 @@
 ## Resources
-Much of this list was compiled by [Juan Francisco Saldarriaga](https://github.com/juanfrans-courses/dataViz_arch_hum)
 
-### Books
-* Data Visualization:
-  * *Data Flow: Visualizing Information in Graphic Design*
-  * *Data Flow 2: Visualizing Information in Graphic Design*
-  * *Data Points*, Nathan Yau
-  * *Atlas of Shrinking Cities*, Beyer Elke
-  * *Visualizing Information for Advocacy*, Tactical Technology Creative
-  * *Design for Information*, Isabel Meirelles
-  * *Semiology of Graphics*, Jacques Bertin
-  * *The Visual Display of Quantitative Information (2nd Edition)*, Edward R. Tufte
-  * *Envisioning Information*, E. R. Tufte
-  * *Visualization Analysis and Design*, Tamara Munzer
-  * *Dear Data*, Giorgia Lupi, Stefanie Posavec
-  * *Show Me the Numbers: Designing Tables and Graphs to Enlighten*, Stephen Few
-  * *Now You See It: Simple Visualization Techniques for Quantitative Analysis*, Stephen Few
-  * *Information Visualization: Perception for Design*, Colin Ware
-  * *The Functional Art: An Introduction ton Information Graphics and Visualization*, Alberto Cairo
-* Programming:
-  * *Generative Design*, Hartmut Bohnacker, Benedikt Gross, Julia Laub, Claudius Lazzeroni
-  * *Processing: A Programming Handbook for Visual Designers (Second Edition)*, Casey Reas and Ben Fry
-  * *The Nature of Code: Simulating Natural Systems with Processing*, Daniel Shiffman
-  * *[Eloquent JavaScript](http://eloquentjavascript.net/)*, Marijn Haverbeke
-  * *Beginning JavaScript (4th Edition)*, Paul Wilton
-  * *JavaScript: The Definitive Guide (4th Edition)*, David Flanagan
-  * *HTML & CSS: Design and build websites*, Jon Duckett
-  * *Program or Be Programmed: Ten Commands for a Digital Age*, Douglas Rushkoff
-* Typography:
-  * *Thinking With Type*, Ellen Lupton
+### Datasets
+
+#### General Interdisciplinary Repositories
+* [datadryad](https://datadryad.org/search)
+* [data is plural](https://docs.google.com/spreadsheets/d/1wZhPLMCHKJvwOkP4juclhjFgqIY8fQFMemwKL2c64vk/edit#gid=0) Sign up for the weekly newsletter * [here](https://tinyletter.com/data-is-plural)
+* [figshare](https://figshare.com/) Scroll to the bottom to search
+* [harvard dataverse](https://dataverse.harvard.edu/)
+* [mendeley data](https://data.mendeley.com/)
+* [open science framework](https://osf.io/)
+* [opportunity insights](https://opportunityinsights.org/data/)
+
+#### NYC
+* [NYC Open Data](https://opendata.cityofnewyork.us/)
+* [CapStat - Lawsuits against police](https://capstat.nyc/)
+* [NYPL Labs Menus](http://menus.nypl.org/data)
+* [NYPL Digital Collections](http://digitalcollections.nypl.org/)
+* [Citibike Ridership Data](https://www.citibikenyc.com/system-data)
+* [NYC Taxis](http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml)
+* [streeteasy](https://streeteasy.com/blog/data-dashboard/)
+
+
+#### Covid & Health
+* [Covid Tracing from The Atlantic](https://covidtracking.com/)
+* [National Insitute of Health](https://datascience.nih.gov/covid-19-open-access-resources)
+* [NYTimes Data](https://github.com/nytimes/covid-19-data)
+* [OpenICPSR](https://www.openicpsr.org/openicpsr/covid19)
+* [World Health Organization](https://apps.who.int/gho/data/node.home)
+
+
+#### Race & Policing
+* [Center for Racism, Social Justice & Health](https://www.racialhealthequity.org/data) from UCLA
+* [DiversityData](http://diversitydata.org/) from Brandeis
+* [Stanford Open Policing](https://openpolicing.stanford.edu/data/)
+* [Urban Institute](https://datacatalog.urban.org/search/type/dataset)
+
+
+#### Social Sciences
+* [Census data - American Fact Finder](http://factfinder.census.gov/faces/nav/jsf/pages/index.xhtml)
+* [Census Data - Historic (NHGIS)](https://www.nhgis.org/)*
+* [Census data - citysdk](https://uscensusbureau.github.io/citysdk/)
+* [World Bank data catalog](http://datacatalog.worldbank.org/)
+* [Campaign Finance Data](http://www.fec.gov/finance/disclosure/ftpdet.shtml#a2015_2016)
+* [H1B](https://h1bsalary.online/)
+* [psychometrics data](https://openpsychometrics.org/_rawdata/)
+* [gun violence](https://www.kaggle.com/gunviolencearchive/gun-violence-database)
+
+
+### Books, Culture & Humanities
+* [Project Gutenberg](http://www.gutenberg.org/)
+* [Library of Congress](https://www.loc.gov/rr/news/)
+* [Association of Religion Data Archives](http://www.thearda.com/)
+* [National Archive of Data on Arts and Culture](http://www.icpsr.umich.edu/icpsrweb/NADAC/)
+
 
 ### Blogs & Websites
 * [Visualizing Data](http://www.visualisingdata.com/)
@@ -65,33 +89,3 @@ Much of this list was compiled by [Juan Francisco Saldarriaga](https://github.co
 * [Data Stories](http://datastori.es/)
 * [PolicyViz](http://policyviz.com/the-policyviz-podcast/)
 
-
-### Datasets:
-
-Collections
-* [NYC Open Data](https://opendata.cityofnewyork.us/) 
-* [AWS Public Datasets](https://aws.amazon.com/datasets/)
-* [NYPL Labs Menus](http://menus.nypl.org/data)
-* [NYPL Digital Collections](http://digitalcollections.nypl.org/)
-* [Library of Congress](https://www.loc.gov/rr/news/)
-* [Data is Plural](https://tinyletter.com/data-is-plural/archive?page=1&recs=10&sort=desc&q=)
-* [Visualising Data - Data Sources](http://www.visualisingdata.com/references/)
-* [The Data Visualisation Catalogue](www.datavizcatalogue.com)
-* [Dreamtolearn - 1001 Datasets and Data repositories (Lists of lists of lists)](https://dreamtolearn.com/ryan/1001_datasets)
-* [Awesome data - more lists of lists](https://github.com/awesomedata/awesome-public-datasets)
-
-Single Topic (Kind of)
-* [NYC Taxis](http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml)
-* [Citibike Ridership Data](https://www.citibikenyc.com/system-data)
-* [Citibike Station Data - GBFS (General Bikeshare Feed Specification)](https://gbfs.citibikenyc.com/gbfs/gbfs.json) - And the [documentation](https://github.com/NABSA/gbfs/blob/master/gbfs.md)
-* [Weather data - forecast.io API](https://developer.forecast.io/)
-* [Census data - American Fact Finder](http://factfinder.census.gov/faces/nav/jsf/pages/index.xhtml)
-* [Census Data - Historic (NHGIS)](https://www.nhgis.org/)*
-* [Census data - citysdk](https://uscensusbureau.github.io/citysdk/)
-* [World Bank data catalog](http://datacatalog.worldbank.org/)
-* [Campaign Finance Data](http://www.fec.gov/finance/disclosure/ftpdet.shtml#a2015_2016)
-* [Project Gutenberg](http://www.gutenberg.org/)
-* [Association of Religion Data Archives](http://www.thearda.com/)
-* [National Archive of Data on Arts and Culture](http://www.icpsr.umich.edu/icpsrweb/NADAC/)
-* [Enigma.io](http://enigma.io/)
-* [Box Office Mojo](http://www.boxofficemojo.com/)
